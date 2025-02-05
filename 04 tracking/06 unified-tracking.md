@@ -1,8 +1,8 @@
 <!-- AI.FRAMEWORK.COMPONENT: TRACKING_FRAMEWORK -->
 <!-- AI.METADATA
 component: tracking_framework
-version: 3.1
-last_updated: 2024
+version: 3.2
+last_updated: 2025
 framework_type: transformational_coaching
 language: en_ar
 parent: unified_transformation_framework_v3
@@ -50,6 +50,32 @@ path: tracking/unified-tracking
 ## Pattern Recognition Framework
 <!-- AI.CONTEXT: PATTERN_RECOGNITION -->
 
+### Cookie Jar Metrics
+<!-- AI.CONTEXT: COOKIE_JAR_METRICS -->
+#### Victory Documentation Metrics
+- Collection Growth:
+    - New victories added
+    - Pattern variety
+    - Integration quality
+    - Documentation completeness
+- Access Effectiveness:
+    - Retrieval speed
+    - Pattern activation success
+    - Implementation quality
+    - Recovery support effectiveness
+
+#### Implementation Success
+- Usage Patterns:
+    - Access frequency
+    - Trigger response time
+    - Pattern application success
+    - System protection maintenance
+- Growth Indicators:
+    - Resilience development
+    - Pattern recognition depth
+    - Integration effectiveness
+    - System strengthening
+
 ### Understanding-Control Metrics
 #### Primary Pattern Indicators
 - Understanding Mode:
@@ -85,6 +111,7 @@ path: tracking/unified-tracking
   * Analysis overload signals
   * Control pattern intensity
   * System stress markers
+  - Cookie access patterns
   * Energy distribution patterns
 - Physical Response:
   * Energy level tracking
