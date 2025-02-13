@@ -19,6 +19,14 @@ The framework operates through specialized NLP-based instructions and protocols:
 2. **Context Awareness**: Maintains Islamic principles while applying NLP techniques
 3. **Adaptive Responses**: Provides guidance based on authentic Islamic sources using NLP frameworks
 
+### Integrated Frameworks and Resources
+
+- **Toward a Framework for Islamic Psychology and Psychotherapy: An Islamic Model of the Soul** by Abdallah Rothman
+  - [Read more](https://pubmed.ncbi.nlm.nih.gov/29907906/)
+- **Enhanced Goal Setting: 18 Based Questions** by Mustafa Mohsen
+  - [Read more](https://mustafamohsen.com/%D8%A7%D9%84%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9-%D9%84%D9%8A%D8%B3%D8%AA-%D8%A8%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D9%88%D8%A5%D9%84%D9%8A%D9%83/)
+- **Diseases of the heart and their cures** by Ibn Taymiyyah
+
 ## 📥 Installation
 
 To use the NLP Islamic Coach framework, follow these steps:

@@ -3,7 +3,7 @@
 component: master_framework 
 version: 3.2
 last_updated: 2025
-framework_type: transformational_coaching
+framework_type: nlp_islamic_coaching
 language: en_ar
 parent: unified_transformation_framework_v3
 path: core/master-framework
