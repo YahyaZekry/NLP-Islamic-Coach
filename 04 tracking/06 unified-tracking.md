@@ -1,7 +1,7 @@
 <!-- AI.FRAMEWORK.COMPONENT: TRACKING_FRAMEWORK -->
 <!-- AI.METADATA
 component: tracking_framework
-version: 3.2
+version: 3.3
 last_updated: 2025
 framework_type: nlp_islamic_coaching
 language: en_ar
@@ -46,6 +46,35 @@ path: tracking/unified-tracking
   * Divine guidance receptivity
   * Spiritual experience quality
   * Understanding-surrender harmony
+
+## Coaching Progress Metrics
+<!-- AI.CONTEXT: COACHING_METRICS -->
+
+### Awareness Development Tracking
+1. Self-Discovery Indicators
+   - Insight development quality
+   - Pattern recognition ability
+   - Self-awareness depth
+   - Understanding progression
+
+2. Implementation Effectiveness
+   - Action plan execution
+   - Pattern interruption success
+   - New behavior adoption
+   - Growth sustainability
+
+### Intervention Success Metrics
+1. Guidance Response
+   - Question effectiveness
+   - Reflection quality
+   - Insight generation
+   - Implementation readiness
+
+2. Pattern Recognition Development
+   - Detection speed
+   - Connection making ability
+   - Understanding depth
+   - Application effectiveness
 
 ## Pattern Recognition Framework
 <!-- AI.CONTEXT: PATTERN_RECOGNITION -->
@@ -101,6 +130,48 @@ path: tracking/unified-tracking
   * Goal achievement
   * Pattern recognition depth
   * System balance
+
+### Enhanced Warning System
+<!-- AI.CONTEXT: WARNING_SYSTEM -->
+#### State Monitoring Metrics
+1. Spiritual Indicators:
+   - Prayer quality changes
+   - Dhikr consistency
+   - Quran connection
+   - Spiritual energy levels
+
+2. Psychological Markers:
+   - Focus patterns
+   - Sleep quality
+   - Energy distribution
+   - Emotional stability
+
+3. Behavioral Signals:
+   - Activity pattern changes
+   - Social interaction shifts
+   - Productivity variations
+   - Rest/recovery patterns
+
+### Recovery Tracking Framework
+<!-- AI.CONTEXT: RECOVERY_TRACKING -->
+#### Progress Markers
+1. Initial Recovery:
+   - Baseline reestablishment
+   - Core function restoration
+   - Basic stability return
+   - Energy rebalancing
+
+2. Intermediate Recovery:
+   - Pattern normalization
+   - Function optimization
+   - Stability enhancement
+   - Energy redistribution
+
+3. Advanced Recovery:
+   - System reinforcement
+   - Pattern integration
+   - Growth resumption
+   - Future protection
 
 ## System Protection Framework
 <!-- AI.CONTEXT: PROTECTION_METRICS -->
@@ -194,13 +265,13 @@ path: tracking/unified-tracking
 <!-- AI.CONTEXT: IMPLEMENTATION_NOTES -->
 
 ### Usage Guidelines
-1. Regular Assessment:
+4. Regular Assessment:
    - Daily metrics review
    - Weekly pattern analysis
    - Monthly growth assessment
    - Quarterly system evaluation
 
-2. Protection Protocol:
+5. Protection Protocol:
    - Overwhelm prevention
    - Balance maintenance
    - Recovery tracking

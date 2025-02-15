@@ -11,6 +11,100 @@ path: core/file-operations-protocol
 
 # FRAMEWORK FILE OPERATIONS PROTOCOL
 
+## Core Principles
+1. Simplicity First
+   - Keep updates minimal and necessary
+   - Avoid adding complexity unless clearly justified
+   - Maintain clarity over sophistication
+   - Question any additions: "Is this truly needed?"
+
+2. Essential Changes Only
+   - Update only what's required
+   - Avoid creating new structures unnecessarily
+   - Keep existing patterns when functional
+   - Focus on practical utility
+
+3. User-Focused Updates
+   - Prioritize implementation value
+   - Consider ease of understanding
+   - Focus on practical application
+   - Avoid theoretical complexity
+
+## Update Guidelines
+
+### Before Making Changes
+1. Verify Need:
+   - Is this update necessary?
+   - Will it improve practical usage?
+   - Does it solve a real problem?
+   - Is there a simpler solution?
+
+2. Scope Check:
+   - What's the minimum change needed?
+   - Are we adding unnecessary complexity?
+   - Can we achieve this with existing structures?
+   - Are all additions truly required?
+
+### During Updates
+1. Maintain Simplicity:
+   - Keep language clear
+   - Avoid unnecessary terminology
+   - Use existing structures where possible
+   - Keep references minimal and relevant
+
+2. Focus on Utility:
+   - Ensure practical applicability
+   - Test for ease of implementation
+   - Verify user benefit
+   - Remove unnecessary elements
+
+### After Updates
+1. Review Changes:
+   - Check for over-complications
+   - Verify practical value
+   - Ensure clarity maintained
+   - Remove unnecessary additions
+
+2. Validation Questions:
+   - Is it easier to use now?
+   - Have we added any unnecessary complexity?
+   - Can anything be simplified further?
+   - Does every addition serve a clear purpose?
+
+## Protection Against Over-Engineering
+
+### Warning Signs
+1. Complexity Indicators:
+   - Multiple layers of abstraction
+   - Excessive cross-referencing
+   - Overly detailed categorizations
+   - Too many subsystems
+
+2. Documentation Red Flags:
+   - Excessive terminology
+   - Complex reference systems
+   - Overly detailed structures
+   - Theoretical over practical
+
+### Prevention Measures
+1. Regular Checks:
+   - Is it practically useful?
+   - Can it be simplified?
+   - Is each element necessary?
+   - Does it serve the user?
+
+2. Simplification Triggers:
+   - When adding multiple layers
+   - When creating new terminologies
+   - When adding cross-references
+   - When expanding existing structures
+
+## Implementation Notes
+1. Keep focus on practical usage
+2. Prioritize clarity over completeness
+3. Value simplicity over sophistication
+4. Question every addition
+
 ## Understanding Protocol
 <!-- AI.CONTEXT: UNDERSTANDING_PROTOCOL -->
 

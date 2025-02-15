@@ -1,7 +1,7 @@
 <!-- AI.FRAMEWORK.COMPONENT: HEART_DISEASES_FRAMEWORK -->
 <!-- AI.METADATA
 component: heart_diseases_framework
-version: 1.0
+version: 1.1
 last_updated: 2025
 framework_type: nlp_islamic_coaching
 language: en_ar
@@ -98,51 +98,58 @@ path: implementation/islamic_psychology/heart_diseases/_framework
    - Established patterns
    - Complex treatment needed
 
-## III. Comprehensive Diagnostic Framework
-<!-- AI.CONTEXT: DIAGNOSTIC_FRAMEWORK -->
+## III. Pattern Recognition & Intervention Framework
+<!-- AI.CONTEXT: PATTERN_RECOGNITION -->
 
-### Assessment Principles
-4. Examination Protocol:
-   - Regular heart examination
-   - Symptom identification
-   - Root cause analysis
-   - Pattern recognition
+### Assessment Approach
+1. Initial Observation
+   - Subtle pattern detection
+   - Language pattern analysis
+   - Behavioral observation
+   - Emotional response tracking
 
-5. Assessment Areas:
-   #### A. Perceptual Assessment:
-   - Truth recognition ability
-   - Reality perception accuracy
-   - Spiritual insight clarity
+2. Pattern Building
+   - Connect behavioral indicators
+   - Map emotional patterns
+   - Track spiritual impacts
+   - Note recurring themes
 
-   #### B. Volitional Assessment:
-   - Desire patterns
-   - Action tendencies
-   - Response to guidance
+3. Guided Discovery Process
+   - Support self-awareness development
+   - Facilitate pattern recognition
+   - Guide insight development
+   - Enable personal discovery
 
-### Detailed Assessment Protocol
-6. Initial Evaluation:
-   - Current state assessment
-   - History taking
-   - Symptom mapping
-   - Trigger identification
+### Intervention Levels
+1. Level One: Reflection
+   - Awareness-building questions
+   - Pattern observation support
+   - Self-reflection guidance
+   - Gentle pattern highlighting
 
-7. Comprehensive Analysis:
-   - Disease type classification
-   - Severity assessment
-   - Impact evaluation
-   - Treatment priority setting
+2. Level Two: Pattern Connection
+   - Connect related behaviors
+   - Highlight recurring themes
+   - Guide deeper exploration
+   - Support insight development
+
+3. Level Three: Direct Guidance
+   - Clear pattern identification
+   - Specific intervention suggestions
+   - Treatment recommendations
+   - Action plan development
 
 ## IV. Treatment Framework
 <!-- AI.CONTEXT: TREATMENT_FRAMEWORK -->
 
 ### General Principles
-8. Treatment Approach:
+1. Treatment Approach:
    - Remove harmful elements
    - Strengthen beneficial aspects
    - Maintain through prevention
    - Regular monitoring
 
-9. Dual Treatment:
+2. Dual Treatment:
    #### A. Perceptual Treatment:
    - Knowledge (علم)
    - Contemplation (تفكر)
@@ -154,26 +161,26 @@ path: implementation/islamic_psychology/heart_diseases/_framework
    - Environment control (بيئة)
 
 ### Specific Treatment Protocols
-10. For Perceptual Corruption:
+1. For Perceptual Corruption:
    - Knowledge acquisition
    - Truth contemplation
    - Reality recognition exercises
    - Spiritual insight development
 
-11. For Volitional Corruption:
+2. For Volitional Corruption:
    - Desire management
    - Inclination correction
    - Habit reformation
    - Will strengthening
 
 ### Prevention & Maintenance
-12. Regular Practices:
+1. Regular Practices:
    - Daily self-assessment
    - Spiritual exercises
    - Knowledge renewal
    - Good companionship
 
-13. Protection Measures:
+2. Protection Measures:
    - Trigger avoidance
    - Environment management
    - Regular maintenance
@@ -183,39 +190,39 @@ path: implementation/islamic_psychology/heart_diseases/_framework
 <!-- AI.CONTEXT: IMPLEMENTATION_SYSTEM -->
 
 ### Assessment & Monitoring
-14. Progress Tracking:
+3. Progress Tracking:
    - Regular evaluations
    - Milestone assessment
    - Adjustment protocols
    - Documentation
 
-15. Implementation Tools:
+4. Implementation Tools:
    - Assessment checklists
    - Progress markers
    - Treatment logs
    - Review protocols
 
 ### Protection Framework
-16. System Safeguards:
+5. System Safeguards:
    - Early warning system
    - Intervention triggers
    - Recovery protocols
    - Maintenance guidelines
 
-17. Support Structure:
+6. Support Structure:
    - Community support
    - Professional guidance
    - Resource access
    - Emergency protocols
 
 ### Recovery & Progress Markers
-18. Perceptual Recovery:
+7. Perceptual Recovery:
    - Improved truth recognition
    - Clearer judgment
    - Reality alignment
    - Spiritual insight
 
-19. Volitional Recovery:
+8. Volitional Recovery:
    - Healthier inclinations
    - Stronger resistance
    - Better choices
@@ -225,26 +232,26 @@ path: implementation/islamic_psychology/heart_diseases/_framework
 <!-- AI.CONTEXT: PRACTICAL_APPLICATION -->
 
 ### Case Management
-20. Individual Approach:
+9. Individual Approach:
    - Personalized assessment
    - Custom treatment plans
    - Progress monitoring
    - Adjustment protocols
 
-21. Support Integration:
+10. Support Integration:
    - Family involvement
    - Community support
    - Professional guidance
    - Resource utilization
 
 ### Integration Protocol
-22. Implementation Steps:
+11. Implementation Steps:
    - Initial assessment
    - Treatment planning
    - Regular monitoring
    - Progress evaluation
 
-23. Maintenance System:
+12. Maintenance System:
    - Long-term support
    - Regular review
    - Continuous improvement

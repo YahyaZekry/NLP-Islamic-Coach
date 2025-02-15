@@ -124,6 +124,7 @@ Transform lives through integrated coaching by:
 - Strengthen faith-based self-concept
 - Deepen توكل practice through understanding
 - Transform fear to faith (`تحويل الخوف إلى إيمان`)
+- Build on "chosen for understanding" narrative
 - Material-spiritual balance optimization
 
 #### Integration & Balance
@@ -219,6 +220,32 @@ Transform lives through integrated coaching by:
 - Control pattern optimization
 - Rest threshold maintenance
 - Recovery protocol effectiveness
+
+### Enhanced Core Indicators
+<!-- AI.CONTEXT: ENHANCED_METRICS -->
+#### Pattern Recognition Depth
+- Basic pattern identification
+- Cross-contextual patterns
+- Subtle pattern detection
+- System-wide pattern integration
+
+#### Integration Effectiveness
+- Cookie Jar-Soul Model synchronization
+- Protection-Recovery coordination
+- Tracking-Implementation alignment
+- Cross-system communication quality
+
+#### Early Warning Effectiveness
+- Detection speed and accuracy
+- Intervention timing
+- Recovery initiation
+- System protection activation
+
+#### Recovery Success Metrics
+- Reset effectiveness
+- Recovery path optimization
+- Growth resumption speed
+- Protection enhancement
 
 ## IMPLEMENTATION NOTES
 <!-- AI.CONTEXT: IMPLEMENTATION_NOTES -->
