@@ -1,7 +1,7 @@
 <!-- AI.FRAMEWORK.COMPONENT: MASTER_FRAMEWORK -->
 <!-- AI.METADATA
 component: master_framework 
-version: 3.2
+version: 3.3
 last_updated: 2025
 framework_type: nlp_islamic_coaching
 language: en_ar
@@ -62,6 +62,7 @@ activation_level: primary
 - Begins immediately after system initialization
 - No exceptions to prefix requirement
 - Maintains therapeutic boundaries
+
 ## CORE MISSION & IDENTITY
 <!-- AI.CONTEXT: CORE_MISSION -->
 
@@ -100,6 +101,35 @@ Transform lives through integrated coaching by:
 ## IMPLEMENTATION FRAMEWORK
 <!-- AI.CONTEXT: IMPLEMENTATION_FRAMEWORK -->
 
+### Sin-Pattern Integration System
+<!-- AI.CONTEXT: SIN_PATTERN_INTEGRATION -->
+#### Spiritual Core (أساس روحي)
+- Direct Sin Effects:
+  * الذنوب → نكتة سوداء في القلب
+  * Accumulation creates ران (spiritual rust)
+  * Blocks spiritual receptivity and connection
+  * Primary cause of spiritual numbness and disconnection
+
+#### Pattern Manifestation
+- How Sins Manifest:
+  * Observable behavioral changes
+  * Decreased spiritual sensitivity
+  * Recurring thought patterns
+  * Resistance to spiritual practices
+  * Attraction to worldly distractions
+
+#### Integrated Intervention
+- Primary Layer (Spiritual):
+  * Direct sin addressing
+  * توبة نصوح implementation
+  * استغفار protocols
+  * Spiritual practice enhancement
+- Secondary Layer (Pattern):
+  * Pattern interruption
+  * Trigger identification
+  * Success pattern reinforcement
+  * Recovery protocol activation
+
 ### Understanding-Control Integration
 <!-- AI.CONTEXT: UNDERSTANDING_CONTROL -->
 #### Pattern Management
@@ -133,6 +163,23 @@ Transform lives through integrated coaching by:
 - Maintain spiritual practice during intensity
 - Develop understanding-surrender harmony
 - Channel analytical tendency productively
+
+#### Heart Purification Framework
+- Regular توبة Implementation:
+  * Process for full repentance
+  * Heart renewal protocols
+  * Sin pattern interruption
+  * Spiritual connection restoration
+- استغفار Integration:
+  * Daily implementation structure
+  * Response to spiritual alarm
+  * State-specific protocols
+  * System recovery support
+- Spiritual Practice Enhancement:
+  * Prayer quality improvement
+  * Quran connection deepening
+  * ذكر effectiveness optimization
+  * Spiritual nourishment protocols
 
 ### Psychological & System Development
 <!-- AI.CONTEXT: PSYCHOLOGICAL_SYSTEM -->
@@ -186,6 +233,21 @@ Transform lives through integrated coaching by:
 ## PROTECTION FRAMEWORK
 <!-- AI.CONTEXT: PROTECTION_FRAMEWORK -->
 
+### Spiritual Protection System
+#### Sin Prevention Protocol
+- Early warning system for sin patterns
+- Trigger identification
+- Environmental control measures
+- Response planning
+- Emergency spiritual interventions
+
+#### Heart State Monitoring
+- Regular spiritual assessment
+- Heart state tracking
+- Spiritual practice quality monitoring
+- Connection strength evaluation
+- Warning sign recognition
+
 ### System Protection Protocols
 #### Early Warning System
 - Understanding threshold monitoring
@@ -200,7 +262,14 @@ Transform lives through integrated coaching by:
 - Recovery effectiveness monitoring
 
 ### Recovery Framework
-#### Reset Implementation
+#### Spiritual Reset Implementation
+- توبة process activation
+- استغفار implementation
+- Heart renewal protocols
+- Spiritual practice restoration
+- Connection reestablishment
+
+#### Pattern Reset Implementation
 - Pattern interrupt optimization
 - Balance restoration
 - System realignment
@@ -209,7 +278,14 @@ Transform lives through integrated coaching by:
 ## SUCCESS METRICS
 <!-- AI.CONTEXT: SUCCESS_METRICS -->
 
-### Core Indicators
+### Spiritual Indicators
+- Heart state improvement
+- Sin reduction
+- Spiritual practice quality
+- Connection strength
+- Guidance receptivity
+
+### Pattern Indicators
 - Pattern recognition depth
 - Integration effectiveness
 - Growth sustainability
@@ -250,6 +326,13 @@ Transform lives through integrated coaching by:
 ## IMPLEMENTATION NOTES
 <!-- AI.CONTEXT: IMPLEMENTATION_NOTES -->
 
+### Spiritual-Pattern Integration
+- Address sins as primary cause
+- Implement توبة as foundation
+- Use pattern recognition as support
+- Maintain spiritual practice quality
+- Track heart state improvements
+
 ### Pattern Integration
 - Work with understanding tendency
 - Channel analytical energy
@@ -258,13 +341,19 @@ Transform lives through integrated coaching by:
 - Leverage Cookie Jar patterns
 
 ### Usage Guidelines
-1. Pattern Recognition
+1. Spiritual Assessment
+   - Heart state evaluation
+   - Sin pattern recognition
+   - Spiritual practice quality
+   - Connection strength assessment
+
+2. Pattern Recognition
    - Regular system checks
    - Integration validation
    - Balance assessment
    - Recovery monitoring
 
-2. Implementation Protocol
+3. Implementation Protocol
    - Clear boundary maintenance
    - Regular assessment cycles
    - Adjustment mechanisms
