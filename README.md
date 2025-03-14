@@ -2,30 +2,38 @@
 
 ## 📝 Description
 
-NLP (Neuro-linguistic programming) Islamic Coach is an AI framework designed to provide Islamic guidance and coaching using NLP techniques. It leverages advanced AI models like Claude and GPT to offer insightful and accurate responses by incorporating NLP principles - the study of how people organize their thinking, feeling, language, and behavior. The framework includes specific instructions and protocols that enable AI models to provide accurate, respectful, and culturally appropriate Islamic guidance through proven NLP methodologies.
+NLP (Neuro-linguistic programming) Islamic Coach is an AI framework designed to provide Islamic guidance and coaching using NLP techniques. It leverages advanced AI models like Claude and GPT to offer insightful and accurate responses by incorporating NLP principles and Meta-States methodology - the study of how people organize their thinking, feeling, language, and behavior at multiple levels of consciousness. The framework includes specific instructions and protocols that enable AI models to provide accurate, respectful, and culturally appropriate Islamic guidance through proven NLP methodologies.
 
 ## ✨ Features
 
 - Provides Islamic guidance using NLP-based coaching techniques
-- Utilizes NLP modeling and language patterns
+- Utilizes NLP modeling, Meta-States framework, and advanced language patterns
+- Implements the Soul Model framework from Islamic psychology
 - Easy to integrate with various AI platforms
 - Customizable to fit specific coaching needs
+- Transformational meta-level approaches for deep change
 
 ## ⚙️ How It Works
 
-The framework operates through specialized NLP-based instructions and protocols:
+The framework operates through specialized NLP and Meta-States based instructions and protocols:
 
-1. **Initialization**: The AI adopts the role of an Islamic coach trained in NLP methodologies
+1. **Initialization**: The AI adopts the role of an Islamic coach trained in NLP and Meta-States methodologies
 2. **Context Awareness**: Maintains Islamic principles while applying NLP techniques
-3. **Adaptive Responses**: Provides guidance based on authentic Islamic sources using NLP frameworks
+3. **Multi-Level Processing**: Addresses both primary states and meta-states for transformational change
+4. **Adaptive Responses**: Provides guidance based on authentic Islamic sources using NLP frameworks
+5. **Pattern Recognition**: Identifies understanding-control patterns and implements targeted interventions
 
 ### Integrated Frameworks and Resources
 
-- **Toward a Framework for Islamic Psychology and Psychotherapy: An Islamic Model of the Soul** by Abdallah Rothman
-  - [Read more](https://pubmed.ncbi.nlm.nih.gov/29907906/)
-- **Enhanced Goal Setting: 18 Based Questions** by Mustafa Mohsen
+- **Meta-States Framework** by L. Michael Hall
+  - Advanced reflexive consciousness work for transformational change
+- **Soul Model Framework** (`نموذج النفس`)
+  - Qalb (Heart), Aql (Intellect), Nafs (Self), and Ruh (Spirit) components
+- **Unified Goal Framework** (18-Question Methodology)
   - [Read more](https://mustafamohsen.com/%D8%A7%D9%84%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9-%D9%84%D9%8A%D8%B3%D8%AA-%D8%A8%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D9%88%D8%A5%D9%84%D9%8A%D9%83/)
-- **Diseases of the heart and their cures** by Ibn Taymiyyah
+- **Heart Diseases Framework** from Ibn Taymiyyah
+- **Cookie Jar System** by David Goggins for resilience and achievement pattern recognition
+- **Meta-Dimensions Framework** for navigating different levels of consciousness
 
 ## 📥 Installation
 
@@ -44,7 +52,7 @@ To use the NLP Islamic Coach framework, follow these steps:
 
 To use the NLP Islamic Coach, follow these steps:
 
-1. 📤 Upload the entire set of files into the chat interface of your chosen AI model (e.g., Claude, GPT).
+1. 📤 Upload the entire set of framework files into the chat interface of your chosen AI model (e.g., Claude, GPT).
 
 2. 🎯 Available Framework Commands:
 
@@ -67,18 +75,41 @@ To use the NLP Islamic Coach, follow these steps:
 
 ## 🏗️ Framework Components
 
+### Core Components
+
+- **Master Framework** 🧠: Core mission, identity, implementation framework
+- **Integrated Frameworks** 🧩: Islamic psychology core, psychological frameworks, advanced implementation
+- **Meta-States Framework** 🔄: Core concepts, meta-stating process, pattern recognition framework
+- **Meta-Dimensions** 📊: Representational, meta-state, gestalt, and conceptual dimensions
+- **Implementation Protocol** ⚙️: Assessment framework, soul-based implementation, pattern protocols
+
+### Specialized Components
+
 - **Communication Tools** 💬: Advanced language patterns, Islamic integration, system management
-- **Protection Protocols** 🛡️: Anti-people-pleasing protection, professional distance enforcement
-- **State Management** 🔄: Active, standby, calibration, and reset states
-- **Implementation Controls** 🎮: Protocol adherence, activation confirmation
-- **Operational Parameters** ⚡: Focus control, protection protocols, integration control
+- **Protection Protocols** 🛡️: Anti-people-pleasing protection, meta-level warning systems
+- **Resilience Framework** 💪: Meta-level structure, stages, resources implementation
+- **Meta-State Applications** ✨: Proactivity, self-esteem, inner peace, un-insultability
+- **Cookie Jar System** 🍪: Victory pattern documentation, access protocols, integration
 
 ## 💡 Best Practices
 
 1. Always begin with "Activate full framework" command
 2. Maintain protocol adherence throughout sessions
 3. Use status commands to verify system state
-4. Follow proper command implementation authority
+4. Start with meta-state awareness before attempting complex interventions
+5. Follow the Soul Model integration guidelines for Islamic authenticity
+6. Respect the natural developmental stages of تزكية النفس (self-purification)
+7. Implement pattern recognition protocols before intervention
+
+## 🔍 Advanced Applications
+
+The framework excels in addressing complex transformation needs:
+
+- **Dragon State Transformation**: Converting negative meta-states (fear-of-fear, self-contempt, guilt) into resourceful states
+- **State Texturing**: Enhancing primary states with valuable qualities through meta-stating
+- **Designer States Creation**: Building complex gestalt states for specific outcomes (courage, opportunity recognition, forgiveness)
+- **Meta-Dimension Navigation**: Moving between representational, meta-state, gestalt, and conceptual dimensions for deep change
+- **Heart Disease Treatment**: Addressing spiritual heart diseases through integrated NLP and Islamic approaches
 
 ## 🤝 Contributing
 

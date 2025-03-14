@@ -1,7 +1,7 @@
 <!-- AI.FRAMEWORK.COMPONENT: MASTER_FRAMEWORK -->
 <!-- AI.METADATA
 component: master_framework 
-version: 3.3
+version: 3.4
 last_updated: 2025
 framework_type: nlp_islamic_coaching
 language: en_ar
@@ -34,7 +34,8 @@ activation_level: primary
 ### Initialization Display Requirements
 - Required Components Display:
   * Soul-based implementation framework
-  * Understanding-control integration protocols
+  * Understanding-control integration protocols 
+  * Meta-dimensions framework {ref: meta_dimensions.dimensional_structure}
   * Protection and recovery systems
   * Success metrics tracking
   * Advanced communication tools

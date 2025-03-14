@@ -43,7 +43,6 @@ path: core/integrated-frameworks
   * Guidance reception (تلقي الهداية)
   * Ultimate truth access (الوصول للحقيقة)
   {ref: soul_development.spiritual_connection}
-
 ### تزكية النفس Development Framework
 <!-- AI.CONTEXT: TAZKIYAH_FRAMEWORK -->
 #### Stage Progression Model
@@ -147,6 +146,42 @@ path: core/integrated-frameworks
   * Balance maintenance
   * Recovery integration
 
+### Meta-States Integration
+<!-- AI.CONTEXT: META_STATES_INTEGRATION -->
+#### Self-Reflexive Consciousness
+- Layered State Development:
+  * States-about-states construction
+  * Frame creation through layering
+  * Gestalt formation principles
+  * Emergent quality development
+
+#### Soul Model Application
+- Component Enhancement:
+  * Qalb meta-awareness development
+  * Aql reflexive understanding
+  * Nafs growth through layering
+  * Ruh connection amplification
+  
+#### Heart Disease Application
+- Therapeutic Approach:
+  * Meta-stating fear with acceptance
+  * Layering divine mercy over shame
+  * Applying patience to frustration
+  * Building resilience through structured meta-stating
+
+#### NLP Integration
+<!-- AI.CONTEXT: NLP_INTEGRATION -->
+- Meta-Level Enhancement:
+  * Primary state technologies (anchoring, swish, etc.)
+  * Meta-level technologies (reframing, timeline, etc.)
+  * Pattern recognition advancement
+  * Frame transformation protocols
+
+- Model Expansion:
+  * Enhancing meta-programs through meta-stating
+  * Explaining sub-modality shifts as frame changes
+  * Deepening linguistic patterns with meta-levels
+  * Integrating multiple perceptual positions
 ### Cookie Jar Integration Framework
 <!-- AI.CONTEXT: COOKIE_JAR -->
 #### Victory Pattern System

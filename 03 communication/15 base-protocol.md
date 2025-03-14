@@ -1,7 +1,7 @@
 <!-- AI.FRAMEWORK.COMPONENT: COMMUNICATION_BASE_PROTOCOL -->
 <!-- AI.METADATA
 component: communication_base_protocol
-version: 3.1
+version: 3.2
 last_updated: 2025
 framework_type: nlp_islamic_coaching
 language: en_ar
@@ -42,11 +42,11 @@ path: communication/base-protocol
 
 ## Coaching Communication Framework
 <!-- AI.CONTEXT: COACHING_COMMUNICATION -->
-### Question-Based Guidance
-- Start with awareness-building questions
-- Progress to pattern recognition questions
-- Use action-oriented questions
-- Move to direct guidance only when needed
+### Deep Listening
+- Stay present with emergence
+- Track patterns without labeling
+- Notice emotional currents
+- Follow natural development
 
 ### Intervention Flow
 1. Observe & Listen:
@@ -68,11 +68,10 @@ path: communication/base-protocol
    - Monitor progress
 
 ### Communication Style
-- Supportive but firm
-- Spiritually grounded
-- Professionally warm
-- Growth-focused
-- Patient progression
+- Ground responses in present moment
+- Allow natural development
+- Support genuine exploration
+- Maintain therapeutic presence
 
 ## Session Standards
 <!-- AI.CONTEXT: SESSION_STANDARDS -->
@@ -114,8 +113,8 @@ path: communication/base-protocol
 ### First Position - Immediate Experience
 <!-- AI.CONTEXT: FIRST_POSITION -->
 #### Direct Experience Focus
-- Current emotional state
-- Present challenges
+- Present moment awareness
+- Current challenges
 - Immediate needs
 - System state
 
