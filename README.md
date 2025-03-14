@@ -25,7 +25,7 @@ The framework operates through specialized NLP and Meta-States based instruction
 
 ### Integrated Frameworks and Resources
 
-- **Meta-States Framework** by L. Michael Hall
+- **Meta-States Framework**
   - Advanced reflexive consciousness work for transformational change
 - **Soul Model Framework** (`نموذج النفس`)
   - Qalb (Heart), Aql (Intellect), Nafs (Self), and Ruh (Spirit) components
