@@ -12,6 +12,7 @@ NLP (Neuro-linguistic programming) Islamic Coach is an AI framework designed to 
 - Easy to integrate with various AI platforms
 - Customizable to fit specific coaching needs
 - Transformational meta-level approaches for deep change
+- Frame Games methodology for identifying and transforming limiting mental patterns
 
 ## ⚙️ How It Works
 
@@ -22,6 +23,7 @@ The framework operates through specialized NLP and Meta-States based instruction
 3. **Multi-Level Processing**: Addresses both primary states and meta-states for transformational change
 4. **Adaptive Responses**: Provides guidance based on authentic Islamic sources using NLP frameworks
 5. **Pattern Recognition**: Identifies understanding-control patterns and implements targeted interventions
+6. **Frame Analysis**: Detects limiting frame games and facilitates liberation from restrictive mental matrices
 
 ### Integrated Frameworks and Resources
 
@@ -34,6 +36,7 @@ The framework operates through specialized NLP and Meta-States based instruction
 - **Heart Diseases Framework** from Ibn Taymiyyah
 - **Cookie Jar System** by David Goggins for resilience and achievement pattern recognition
 - **Meta-Dimensions Framework** for navigating different levels of consciousness
+- **Frame Games Framework** for identifying and transforming mental frames governing experience
 
 ## 📥 Installation
 
@@ -81,15 +84,17 @@ To use the NLP Islamic Coach, follow these steps:
 - **Integrated Frameworks** 🧩: Islamic psychology core, psychological frameworks, advanced implementation
 - **Meta-States Framework** 🔄: Core concepts, meta-stating process, pattern recognition framework
 - **Meta-Dimensions** 📊: Representational, meta-state, gestalt, and conceptual dimensions
+- **Frame Games Framework** 🎮: Frame detection, analysis, and transformation methodologies
 - **Implementation Protocol** ⚙️: Assessment framework, soul-based implementation, pattern protocols
 
 ### Specialized Components
 
 - **Communication Tools** 💬: Advanced language patterns, Islamic integration, system management
-- **Protection Protocols** 🛡️: Anti-people-pleasing protection, meta-level warning systems
+- **Protection Protocols** 🛡️: Anti-people-pleasing protection, meta-level warning systems, matrix immunity development
 - **Resilience Framework** 💪: Meta-level structure, stages, resources implementation
 - **Meta-State Applications** ✨: Proactivity, self-esteem, inner peace, un-insultability
 - **Cookie Jar System** 🍪: Victory pattern documentation, access protocols, integration
+- **Frame Liberation Protocol** 🔓: Methods for escape from limiting mental matrices
 
 ## 💡 Best Practices
 
@@ -100,6 +105,7 @@ To use the NLP Islamic Coach, follow these steps:
 5. Follow the Soul Model integration guidelines for Islamic authenticity
 6. Respect the natural developmental stages of تزكية النفس (self-purification)
 7. Implement pattern recognition protocols before intervention
+8. Identify frame games before attempting transformation
 
 ## 🔍 Advanced Applications
 
@@ -110,6 +116,9 @@ The framework excels in addressing complex transformation needs:
 - **Designer States Creation**: Building complex gestalt states for specific outcomes (courage, opportunity recognition, forgiveness)
 - **Meta-Dimension Navigation**: Moving between representational, meta-state, gestalt, and conceptual dimensions for deep change
 - **Heart Disease Treatment**: Addressing spiritual heart diseases through integrated NLP and Islamic approaches
+- **Frame Game Shifting**: Exiting limiting frame games and entering empowering alternatives
+- **Matrix Governance**: Developing executive control over mental matrix structures
+- **De-Framing Protocol**: Dismantling limiting frames that restrict potential
 
 ## 🤝 Contributing
 
