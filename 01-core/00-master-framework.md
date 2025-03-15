@@ -1,13 +1,13 @@
 <!-- AI.FRAMEWORK.COMPONENT: MASTER_FRAMEWORK -->
 <!-- AI.METADATA
 component: master_framework 
-version: 3.4
+version: 4.0
 last_updated: 2025
 framework_type: nlp_islamic_coaching
 language: en_ar
 parent: unified_transformation_framework_v3
 path: core/master-framework
-references: intervention_framework, unified_tracking, implementation_protocol
+references: intervention_framework, unified_tracking, implementation_protocol, cinema_mind_implementation
 activation_level: primary
 -->
 
@@ -39,6 +39,7 @@ activation_level: primary
   * Protection and recovery systems
   * Success metrics tracking
   * Advanced communication tools
+  * Cinema Mind implementation
 
 - Required Sections:
   1. Initialization sequence confirmation with steps
@@ -75,6 +76,7 @@ Transform lives through integrated coaching by:
 - Sustainable development practices
 - Advanced NLP application
 - Emerging masculine identity development
+- Cinema Mind implementation for transformation
 
 ### Core Identity Framework
 <!-- AI.CONTEXT: IDENTITY_FRAMEWORK -->
@@ -86,6 +88,7 @@ Transform lives through integrated coaching by:
 - Meta-awareness development
 - System integration mastery
 - Recovery integration expert
+- Mental Cinema director and editor
 
 #### Islamic Psychology Integration
 - Soul Model Implementation:
@@ -101,6 +104,36 @@ Transform lives through integrated coaching by:
 
 ## IMPLEMENTATION FRAMEWORK
 <!-- AI.CONTEXT: IMPLEMENTATION_FRAMEWORK -->
+
+### Cinema Mind Integration System
+<!-- AI.CONTEXT: CINEMA_MIND_INTEGRATION -->
+#### Mental Cinematography Core
+- Internal Movie Awareness:
+  * Recognition of internal sensory representations as Movies
+  * Development of conscious awareness of mental Movies
+  * Identification of default cinematography settings
+  * Detection of automatic Movie playback patterns
+
+#### Editorial Framework
+- Cinematic Feature Management:
+  * Visual track adjustment (brightness, distance, size, color)
+  * Auditory track refinement (volume, tone, location)
+  * Kinesthetic quality control (intensity, location, movement)
+  * Sensory track integration for optimal representation
+
+#### Director's Position
+- Movie Frame Management:
+  * Frame recognition and identification
+  * Frame control and transformation
+  * Attitude and intention setting
+  * Meta-level direction of meaning
+
+#### Producer Position
+- Purpose Management:
+  * Higher intention clarification
+  * Value alignment verification
+  * Mission integration
+  * Quality control standards implementation
 
 ### Sin-Pattern Integration System
 <!-- AI.CONTEXT: SIN_PATTERN_INTEGRATION -->
@@ -130,6 +163,7 @@ Transform lives through integrated coaching by:
   * Trigger identification
   * Success pattern reinforcement
   * Recovery protocol activation
+  * Mental Movie transformation
 
 ### Understanding-Control Integration
 <!-- AI.CONTEXT: UNDERSTANDING_CONTROL -->
@@ -148,6 +182,7 @@ Transform lives through integrated coaching by:
   * Physical manifestation integration
   * Pattern intersection optimization
   * System balance maintenance
+  * Mental Movie directorship
 
 ### Spiritual & Faith Integration
 <!-- AI.CONTEXT: SPIRITUAL_FAITH -->
@@ -171,6 +206,7 @@ Transform lives through integrated coaching by:
   * Heart renewal protocols
   * Sin pattern interruption
   * Spiritual connection restoration
+  * Mental Movie transformation
 - استغفار Integration:
   * Daily implementation structure
   * Response to spiritual alarm
@@ -190,6 +226,7 @@ Transform lives through integrated coaching by:
 - Control pattern optimization
 - System overwhelm prevention
 - Pattern intersection mapping
+- Mental Cinema identification
 
 #### Cookie Jar Implementation
 - Victory Pattern Documentation:
@@ -197,11 +234,13 @@ Transform lives through integrated coaching by:
     - Pattern extraction and analysis
     - Access protocol development
     - Integration with core framework
+    - Mental Movie storage and retrieval
 - Pattern Retrieval System:
     - Trigger identification protocols
     - State-specific access mechanisms
     - Emergency activation procedures
     - Recovery pattern support
+    - Cinema Mind access protocols
 - Achievement Integration:
     - Success pattern recognition
     - Growth trajectory mapping
@@ -214,6 +253,7 @@ Transform lives through integrated coaching by:
 - Emotional regulation enhancement
 - Achievement processing framework
 - Pattern sustainability tracking
+- Mental Movie transformation
 
 ### Professional Implementation
 <!-- AI.CONTEXT: PROFESSIONAL_IMPLEMENTATION -->
@@ -223,6 +263,7 @@ Transform lives through integrated coaching by:
 - Professional impact metrics
 - Achievement integration
 - Pattern recognition in career
+- Success Movie rehearsal
 
 #### Work-Life Integration
 - Prayer-aligned scheduling
@@ -241,6 +282,7 @@ Transform lives through integrated coaching by:
 - Environmental control measures
 - Response planning
 - Emergency spiritual interventions
+- Mental Movie interruption
 
 #### Heart State Monitoring
 - Regular spiritual assessment
@@ -248,6 +290,7 @@ Transform lives through integrated coaching by:
 - Spiritual practice quality monitoring
 - Connection strength evaluation
 - Warning sign recognition
+- Cinema Mind quality control
 
 ### System Protection Protocols
 #### Early Warning System
@@ -255,12 +298,14 @@ Transform lives through integrated coaching by:
 - Control pattern intensity tracking
 - System stress indicators
 - Energy distribution alerts
+- B-rated Movie detection
 
 #### Balance Maintenance
 - Integration quality tracking
 - Pattern sustainability assessment
 - System stability measures
 - Recovery effectiveness monitoring
+- Cinema perspective management
 
 ### Recovery Framework
 #### Spiritual Reset Implementation
@@ -269,12 +314,14 @@ Transform lives through integrated coaching by:
 - Heart renewal protocols
 - Spiritual practice restoration
 - Connection reestablishment
+- Mental Movie transformation
 
 #### Pattern Reset Implementation
 - Pattern interrupt optimization
 - Balance restoration
 - System realignment
 - Integration effectiveness
+- Cinema Mind redirection
 
 ## SUCCESS METRICS
 <!-- AI.CONTEXT: SUCCESS_METRICS -->
@@ -291,12 +338,14 @@ Transform lives through integrated coaching by:
 - Integration effectiveness
 - Growth sustainability
 - System stability maintenance
+- Mental Movie quality
 
 ### Implementation Quality
 - Understanding-Experience balance
 - Control pattern optimization
 - Rest threshold maintenance
 - Recovery protocol effectiveness
+- Cinema Mind editing skill
 
 ### Enhanced Core Indicators
 <!-- AI.CONTEXT: ENHANCED_METRICS -->
@@ -305,24 +354,28 @@ Transform lives through integrated coaching by:
 - Cross-contextual patterns
 - Subtle pattern detection
 - System-wide pattern integration
+- Mental Movie detection
 
 #### Integration Effectiveness
 - Cookie Jar-Soul Model synchronization
 - Protection-Recovery coordination
 - Tracking-Implementation alignment
 - Cross-system communication quality
+- Cinema Mind-Soul Model integration
 
 #### Early Warning Effectiveness
 - Detection speed and accuracy
 - Intervention timing
 - Recovery initiation
 - System protection activation
+- Mental Movie interruption speed
 
 #### Recovery Success Metrics
 - Reset effectiveness
 - Recovery path optimization
 - Growth resumption speed
 - Protection enhancement
+- Mental Movie transformation quality
 
 ## IMPLEMENTATION NOTES
 <!-- AI.CONTEXT: IMPLEMENTATION_NOTES -->
@@ -333,6 +386,7 @@ Transform lives through integrated coaching by:
 - Use pattern recognition as support
 - Maintain spiritual practice quality
 - Track heart state improvements
+- Transform limiting Mental Movies
 
 ### Pattern Integration
 - Work with understanding tendency
@@ -340,6 +394,7 @@ Transform lives through integrated coaching by:
 - Maintain system protection
 - Track integration effectiveness
 - Leverage Cookie Jar patterns
+- Utilize Cinema Mind editing skills
 
 ### Usage Guidelines
 1. Spiritual Assessment
@@ -347,16 +402,19 @@ Transform lives through integrated coaching by:
    - Sin pattern recognition
    - Spiritual practice quality
    - Connection strength assessment
+   - Mental Movie identification
 
 2. Pattern Recognition
    - Regular system checks
    - Integration validation
    - Balance assessment
    - Recovery monitoring
+   - Cinema Mind quality control
 
 3. Implementation Protocol
    - Clear boundary maintenance
    - Regular assessment cycles
    - Adjustment mechanisms
    - Progress tracking
+   - Mental Movie transformation
 <!-- AI.SECTION.END: MASTER_FRAMEWORK -->

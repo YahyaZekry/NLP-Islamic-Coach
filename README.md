@@ -2,12 +2,13 @@
 
 ## 📝 Description
 
-NLP (Neuro-linguistic programming) Islamic Coach is an AI framework designed to provide Islamic guidance and coaching using NLP techniques. It leverages advanced AI models like Claude and GPT to offer insightful and accurate responses by incorporating NLP principles and Meta-States methodology - the study of how people organize their thinking, feeling, language, and behavior at multiple levels of consciousness. The framework includes specific instructions and protocols that enable AI models to provide accurate, respectful, and culturally appropriate Islamic guidance through proven NLP methodologies.
+NLP (Neuro-linguistic programming) Islamic Coach is an AI framework designed to provide Islamic guidance and coaching using NLP techniques. It leverages advanced AI models like Claude and GPT to offer insightful and accurate responses by incorporating NLP principles, Meta-States methodology, and Cinema Mind techniques - approaches for understanding and transforming how people organize their thinking, feeling, language, and behavior at multiple levels of consciousness. The framework includes specific instructions and protocols that enable AI models to provide accurate, respectful, and culturally appropriate Islamic guidance through proven NLP methodologies.
 
 ## ✨ Features
 
 - Provides Islamic guidance using NLP-based coaching techniques
 - Utilizes NLP modeling, Meta-States framework, and advanced language patterns
+- Incorporates Cinema Mind technology for transforming mental representations
 - Implements the Soul Model framework from Islamic psychology
 - Easy to integrate with various AI platforms
 - Customizable to fit specific coaching needs
@@ -16,17 +17,20 @@ NLP (Neuro-linguistic programming) Islamic Coach is an AI framework designed to 
 
 ## ⚙️ How It Works
 
-The framework operates through specialized NLP and Meta-States based instructions and protocols:
+The framework operates through specialized NLP, Meta-States, and Cinema Mind based instructions and protocols:
 
-1. **Initialization**: The AI adopts the role of an Islamic coach trained in NLP and Meta-States methodologies
+1. **Initialization**: The AI adopts the role of an Islamic coach trained in NLP, Meta-States, and Cinema Mind methodologies
 2. **Context Awareness**: Maintains Islamic principles while applying NLP techniques
 3. **Multi-Level Processing**: Addresses both primary states and meta-states for transformational change
-4. **Adaptive Responses**: Provides guidance based on authentic Islamic sources using NLP frameworks
-5. **Pattern Recognition**: Identifies understanding-control patterns and implements targeted interventions
-6. **Frame Analysis**: Detects limiting frame games and facilitates liberation from restrictive mental matrices
+4. **Mental Movie Analysis**: Identifies and transforms internal representations that drive behavior and emotion
+5. **Adaptive Responses**: Provides guidance based on authentic Islamic sources using NLP frameworks
+6. **Pattern Recognition**: Identifies understanding-control patterns and implements targeted interventions
+7. **Frame Analysis**: Detects limiting frame games and facilitates liberation from restrictive mental matrices
 
 ### Integrated Frameworks and Resources
 
+- **Cinema Mind Framework**
+  - Mental movie identification, editing, and transformation techniques
 - **Meta-States Framework**
   - Advanced reflexive consciousness work for transformational change
 - **Soul Model Framework** (`نموذج النفس`)
@@ -82,6 +86,7 @@ To use the NLP Islamic Coach, follow these steps:
 
 - **Master Framework** 🧠: Core mission, identity, implementation framework
 - **Integrated Frameworks** 🧩: Islamic psychology core, psychological frameworks, advanced implementation
+- **Cinema Mind Framework** 🎬: Mental movie identification, editing, and transformation techniques
 - **Meta-States Framework** 🔄: Core concepts, meta-stating process, pattern recognition framework
 - **Meta-Dimensions** 📊: Representational, meta-state, gestalt, and conceptual dimensions
 - **Frame Games Framework** 🎮: Frame detection, analysis, and transformation methodologies
@@ -89,6 +94,8 @@ To use the NLP Islamic Coach, follow these steps:
 
 ### Specialized Components
 
+- **Cinema Mind Implementation** 🎞️: Position navigation, editing protocols, transformation processes
+- **Cinema Mind Assessment Protocol** 🔍: AI conversation flows for mental movie analysis
 - **Communication Tools** 💬: Advanced language patterns, Islamic integration, system management
 - **Protection Protocols** 🛡️: Anti-people-pleasing protection, meta-level warning systems, matrix immunity development
 - **Resilience Framework** 💪: Meta-level structure, stages, resources implementation
@@ -96,21 +103,29 @@ To use the NLP Islamic Coach, follow these steps:
 - **Cookie Jar System** 🍪: Victory pattern documentation, access protocols, integration
 - **Frame Liberation Protocol** 🔓: Methods for escape from limiting mental matrices
 
+### Training Resources
+
+- **Cinema Mind Training Exercises** 📋: Awareness development, position navigation, editing skill development
+- **Cinema Mind Case Examples** 📚: Real-world applications of Cinema Mind techniques
+
 ## 💡 Best Practices
 
 1. Always begin with "Activate full framework" command
 2. Maintain protocol adherence throughout sessions
 3. Use status commands to verify system state
-4. Start with meta-state awareness before attempting complex interventions
-5. Follow the Soul Model integration guidelines for Islamic authenticity
-6. Respect the natural developmental stages of تزكية النفس (self-purification)
-7. Implement pattern recognition protocols before intervention
-8. Identify frame games before attempting transformation
+4. Start with mental movie awareness before editing or transformation
+5. Guide users through position navigation to gain valuable perspectives
+6. Follow the Soul Model integration guidelines for Islamic authenticity
+7. Respect the natural developmental stages of تزكية النفس (self-purification)
+8. Implement pattern recognition protocols before intervention
+9. Identify frame games before attempting transformation
 
 ## 🔍 Advanced Applications
 
 The framework excels in addressing complex transformation needs:
 
+- **Mental Movie Transformation**: Converting limiting or negative mental movies into empowering ones
+- **Perceptual Position Navigation**: Gaining insights through multiple perspectives on situations
 - **Dragon State Transformation**: Converting negative meta-states (fear-of-fear, self-contempt, guilt) into resourceful states
 - **State Texturing**: Enhancing primary states with valuable qualities through meta-stating
 - **Designer States Creation**: Building complex gestalt states for specific outcomes (courage, opportunity recognition, forgiveness)
