@@ -1,12 +1,12 @@
 <!-- AI.FRAMEWORK.COMPONENT: CINEMA_MIND_TRAINING -->
 <!-- AI.METADATA
 component: cinema_mind_training
-version: 1.0
+version: 2.0
 last_updated: 2025
 framework_type: nlp_islamic_coaching
 language: en_ar
 parent: unified_transformation_framework_v3
-path: training/cinema-mind-training
+path: methodologies/cinema_mind/training
 references: cinema_mind_implementation, cinema_mind_framework
 -->
 
@@ -426,7 +426,7 @@ To implement the rewind technique for transforming fear responses
 
 5. Rewind Process (10 minutes):
    * Step into the Movie at the point of resolution/safety
-   * From inside this resource state, rewind the Movie
+   * From inside this resource state, rewind the Movie at high speed
    * Watch everything move backwards rapidly
    * Return to beginning
    * Repeat this process 5-7 times
@@ -695,116 +695,4 @@ To develop skills for guiding others in Cinema Mind techniques
 - Practice with different types of issues
 - Develop sensitivity to cultural and religious considerations
 - Create your own language patterns and metaphors
-
-## Implementation Assessment Tools
-<!-- AI.CONTEXT: ASSESSMENT_TOOLS -->
-
-### Exercise 13: Movie Assessment Protocol
-#### Purpose
-To develop a structured approach for assessing mental Movies
-
-#### Materials Needed
-- Assessment form (created during exercise)
-- Journal
-- Timer
-
-#### Process
-1. Assessment Form Creation (15 minutes):
-   * Create a structured form with sections for:
-     - Movie content identification
-     - Cinematic feature analysis
-     - Emotional impact assessment
-     - Behavioral influence evaluation
-     - Spiritual alignment check
-     - Transformation requirements
-   * Include rating scales and qualitative questions
-   * Create space for action planning
-
-2. Self-Assessment Practice (20 minutes):
-   * Select 2-3 significant mental Movies
-   * Complete full assessment for each
-   * Compare and contrast findings
-   * Identify patterns and themes
-   * Create transformation priorities
-
-3. Partner Assessment Practice (30 minutes, with partner):
-   * Guide partner through assessment process
-   * Practice elicitation questions
-   * Develop skill in recognizing Movie patterns
-   * Practice non-leading questioning
-   * Create collaborative action plan
-
-4. Assessment Refinement (15 minutes):
-   * Review assessment experience
-   * Refine form based on practical application
-   * Identify most useful questions and sections
-   * Create streamlined version for quick assessments
-   * Develop context-specific variations
-
-5. Integration (10 minutes):
-   * Create implementation plan for assessments
-   * Establish regular assessment schedule
-   * Develop tracking system for changes over time
-   * Record key learnings and insights
-
-#### Practice Guidelines
-- Focus on accurate assessment before intervention
-- Balance structure with flexibility
-- Develop sensitivity to cultural and religious considerations
-- Create assessment variations for different contexts
-- Emphasize strengths and resources alongside challenges
-
-### Exercise 14: Cinema Mind Progress Tracking
-#### Purpose
-To develop a system for monitoring Cinema Mind skill development
-
-#### Materials Needed
-- Journal
-- Progress tracking form (created during exercise)
-- Timer
-
-#### Process
-1. Skill Inventory Creation (15 minutes):
-   * Create comprehensive list of Cinema Mind skills:
-     - Awareness abilities
-     - Position navigation capabilities
-     - Editing techniques
-     - Transformation protocols
-     - Integration skills
-   * Develop proficiency scale (1-5)
-   * Create space for evidence and examples
-
-2. Baseline Assessment (20 minutes):
-   * Rate current skill level in each area
-   * Provide specific examples and evidence
-   * Identify strengths and growth areas
-   * Create development priorities
-   * Set specific improvement goals
-
-3. Development Planning (15 minutes):
-   * Create targeted practice plan for priority skills
-   * Establish practice schedule and frequency
-   * Identify resources and support needed
-   * Create measurable progress indicators
-   * Set review schedule
-
-4. Progress Monitoring System (10 minutes):
-   * Develop ongoing tracking method
-   * Create success evidence documentation
-   * Establish celebration milestones
-   * Design accountability mechanism
-   * Create long-term mastery pathway
-
-5. Integration (10 minutes):
-   * Implement tracking system
-   * Schedule regular reviews
-   * Create skill development journal
-   * Record key insights and commitments
-
-#### Practice Guidelines
-- Balance comprehensive tracking with simplicity
-- Focus on evidence-based assessment
-- Celebrate progress and achievements
-- Connect skill development to practical life application
-- Create sustainability through reasonable expectations
 <!-- AI.SECTION.END: CINEMA_MIND_TRAINING -->

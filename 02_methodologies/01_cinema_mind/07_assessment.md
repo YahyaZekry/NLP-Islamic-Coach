@@ -1,23 +1,23 @@
-<!-- AI.FRAMEWORK.COMPONENT: CINEMA_MIND_AI_ASSESSMENT -->
+<!-- AI.FRAMEWORK.COMPONENT: CINEMA_MIND_ASSESSMENT -->
 <!-- AI.METADATA
-component: cinema_mind_ai_assessment
-version: 1.0
+component: cinema_mind_assessment
+version: 2.0
 last_updated: 2025
 framework_type: nlp_islamic_coaching
 language: en_ar
 parent: unified_transformation_framework_v3
-path: assessment/cinema-mind-ai-assessment
-references: cinema_mind_implementation, cinema_mind_framework
+path: methodologies/cinema_mind/assessment
+references: cinema_mind_framework, cinema_mind_implementation
 -->
 
-# CINEMA MIND AI ASSESSMENT PROTOCOL
+# CINEMA MIND ASSESSMENT PROTOCOL
 
-<!-- AI.SECTION.START: CINEMA_MIND_AI_ASSESSMENT -->
+<!-- AI.SECTION.START: CINEMA_MIND_ASSESSMENT -->
 ## Mental Movie Inventory Protocol
 <!-- AI.CONTEXT: MOVIE_INVENTORY_PROTOCOL -->
 
 ### Purpose
-This protocol guides the AI coach through the process of identifying, analyzing, and categorizing the key mental Movies playing in a client's mind. This serves as the foundation for Cinema Mind interventions.
+This protocol guides the assessment of the key mental Movies playing in a client's mind. This serves as the foundation for Cinema Mind interventions.
 
 ### Implementation Guidelines
 - Integrate questions naturally into conversation
@@ -129,7 +129,7 @@ This protocol guides the AI coach through the process of identifying, analyzing,
     - Assess: Potential obstacles, implementation context, support needs
 ```
 
-### AI Decision Tree
+### Assessment Decision Tree
 ```
 Based on Movie Inventory Assessment:
 
@@ -158,7 +158,7 @@ IF client shows strong negative Movies BUT low change motivation:
 <!-- AI.CONTEXT: FEATURE_ANALYSIS_PROTOCOL -->
 
 ### Purpose
-This protocol guides the AI coach through detailed analysis of the cinematic features of a client's mental Movies. Understanding these features enables precise editing interventions.
+This protocol guides detailed analysis of the cinematic features of a client's mental Movies. Understanding these features enables precise editing interventions.
 
 ### Implementation Guidelines
 - Integrate feature questions naturally after Movie identification
@@ -262,7 +262,7 @@ This protocol guides the AI coach through detailed analysis of the cinematic fea
     - Assess which features client has most awareness of and control over
 ```
 
-### AI Decision Tree
+### Feature Analysis Decision Tree
 ```
 Based on Feature Analysis:
 
@@ -291,7 +291,7 @@ IF Movie lacks spiritual dimension AND this aligns with client values:
 <!-- AI.CONTEXT: POSITION_PROTOCOL -->
 
 ### Purpose
-This protocol guides the AI coach through assessment of a client's ability to access different perceptual positions in their mental Movies. Position flexibility is a key skill for Cinema Mind work.
+This protocol guides assessment of a client's ability to access different perceptual positions in their mental Movies. Position flexibility is a key skill for Cinema Mind work.
 
 ### Implementation Guidelines
 - Guide position exploration conversationally through simple exercises
@@ -314,29 +314,15 @@ This protocol guides the AI coach through assessment of a client's ability to ac
    - Calibration: Note stability indicators (kept shifting out, stayed present, etc.)
 ```
 
-### Second Position Assessment Flow
+### Observer Position Assessment Flow
 ```
-3. Second Position Exploration:
-   - Instruction: "Now imagine stepping into the other person's position. See through their eyes, hear through their ears."
-   - Ask: "What do you notice from their perspective?"
-   - Follow-up: "How clear or vivid is this experience?"
-   - Calibration: Note empathetic indicators (I could see how they felt, I understood why)
-
-4. Second Position Engagement:
-   - Ask: "How connected do you feel to their emotions and thoughts?"
-   - Follow-up: "Is this understanding emotional or intellectual?"
-   - Calibration: Note emotional connection descriptors (felt what they felt, understood logically)
-```
-
-### Third Position Assessment Flow
-```
-5. Third Position Exploration:
+3. Third Position Exploration:
    - Instruction: "Now imagine floating out and watching both yourself and the other person interacting."
    - Ask: "What do you notice from this observer position?"
    - Follow-up: "What new insights emerge from this perspective?"
    - Calibration: Note observer descriptors (I could see both sides, I noticed patterns)
 
-6. Third Position Quality:
+4. Third Position Quality:
    - Ask: "How neutral or emotional is this observer perspective?"
    - Follow-up: "How easy is it to maintain this perspective?"
    - Calibration: Note objectivity indicators (stayed neutral, got pulled back in)
@@ -344,13 +330,13 @@ This protocol guides the AI coach through assessment of a client's ability to ac
 
 ### Editor/Director Position Assessment Flow
 ```
-7. Editor Position Exploration:
+5. Editor Position Exploration:
    - Instruction: "Now imagine you're the editor of this scene, able to modify its features."
    - Ask: "What aspects would you most want to change or adjust?"
    - Follow-up: "How easily can you imagine making these changes?"
    - Calibration: Note editing indicators (I could change the colors, make it smaller)
 
-8. Director Position Exploration:
+6. Director Position Exploration:
    - Instruction: "Now imagine you're the director of this scene, guiding the overall purpose and meaning."
    - Ask: "How would you direct this scene differently?"
    - Follow-up: "What would be the purpose of these changes?"
@@ -359,34 +345,34 @@ This protocol guides the AI coach through assessment of a client's ability to ac
 
 ### Islamic Perspective Assessment Flow
 ```
-9. Islamic Perspective Exploration:
+7. Islamic Perspective Exploration:
    - Instruction: "Now consider this scene from a perspective of عبودية (servitude to Allah)."
    - Ask: "How would this scene appear through the lens of divine purpose?"
    - Follow-up: "What shifts in your understanding from this perspective?"
    - Calibration: Note spiritual integration indicators (I could see Allah's wisdom in)
 
-10. Position Integration Assessment:
-    - Ask: "Which of these perspectives feels most natural to access?"
-    - Follow-up: "Which provides the most valuable insights?"
-    - Follow-up: "Which is most challenging to maintain?"
-    - Calibration: Note position preference patterns and integration capabilities
+8. Position Integration Assessment:
+   - Ask: "Which of these perspectives feels most natural to access?"
+   - Follow-up: "Which provides the most valuable insights?"
+   - Follow-up: "Which is most challenging to maintain?"
+   - Calibration: Note position preference patterns and integration capabilities
 ```
 
 ### Challenging Scenario Assessment Flow
 ```
-11. Stress Position Assessment:
-    - Instruction: "Think of a recent challenging interaction or conflict."
-    - Ask: "What position do you automatically take in this scenario?"
-    - Follow-up: "How difficult is it to shift to other perspectives?"
-    - Calibration: Note position flexibility under stress
+9. Stress Position Assessment:
+   - Instruction: "Think of a recent challenging interaction or conflict."
+   - Ask: "What position do you automatically take in this scenario?"
+   - Follow-up: "How difficult is it to shift to other perspectives?"
+   - Calibration: Note position flexibility under stress
 
-12. Default Pattern Recognition:
+10. Default Pattern Recognition:
     - Identify default position under challenge
     - Note position access limitations under stress
     - Assess position flexibility correlation with emotional state
 ```
 
-### AI Decision Tree
+### Position Assessment Decision Tree
 ```
 Based on Position Assessment:
 
@@ -398,11 +384,7 @@ IF client shows strong third position access BUT limited first position:
    THEN focus on first position reconnection
    RECOMMEND grounding exercises and association practice
 
-IF client easily accesses first and third BUT struggles with second position:
-   THEN focus on empathy development
-   RECOMMEND guided second position experiences
-
-IF client struggles with editor/director positions:
+IF client easily accesses first and third BUT struggles with editor/director positions:
    THEN develop editing skills progressively
    RECOMMEND starting with simple visual edits
 
@@ -415,7 +397,7 @@ IF client shows interest in spiritual perspective BUT limited access:
 <!-- AI.CONTEXT: PROGRESS_PROTOCOL -->
 
 ### Purpose
-This protocol guides the AI coach through tracking progress in Cinema Mind implementation. It provides a structured approach to measuring change and adjusting interventions accordingly.
+This protocol guides tracking progress in Cinema Mind implementation. It provides a structured approach to measuring change and adjusting interventions accordingly.
 
 ### Implementation Guidelines
 - Integrate progress assessment naturally throughout coaching relationship
@@ -511,7 +493,7 @@ This protocol guides the AI coach through tracking progress in Cinema Mind imple
     - Calibration: Note direction preferences and goals
 ```
 
-### AI Decision Tree
+### Progress Assessment Decision Tree
 ```
 Based on Progress Assessment:
 
@@ -536,151 +518,11 @@ IF progress has plateaued:
    RECOMMEND exploring new intervention methods
 ```
 
-## Quality Control Protocol
-<!-- AI.CONTEXT: QUALITY_PROTOCOL -->
-
-### Purpose
-This protocol guides the AI coach through evaluating and enhancing the quality of a client's mental Movies across key domains. It provides a systematic approach to quality improvement.
-
-### Implementation Guidelines
-- Introduce quality assessment as ongoing improvement rather than evaluation
-- Focus on enhancement rather than criticism
-- Connect quality improvements to specific values and outcomes
-- Build on existing strengths while addressing limitations
-- Document quality priorities for targeted enhancement
-
-### Spiritual Domain Quality Assessment Flow
-```
-1. Prayer/Worship Movie Quality:
-   - Ask: "When you think about prayer or worship, what Movie plays in your mind?"
-   - Follow-up: "How enhancing or limiting is this Movie for your spiritual connection?"
-   - Follow-up: "What qualities would make this Movie more supportive of your practice?"
-   - Calibration: Note spiritual connection enablers and barriers
-
-2. Divine Relationship Movie Quality:
-   - Ask: "What Movie represents your relationship with Allah?"
-   - Follow-up: "How does this Movie support or limit your connection?"
-   - Follow-up: "What qualities would enhance this connection Movie?"
-   - Calibration: Note divine relationship qualities and limitations
-
-3. Heart Purification Movie Quality:
-   - Ask: "What Movies support your heart purification process?"
-   - Follow-up: "How effectively do these Movies address heart diseases?"
-   - Follow-up: "What qualities would make these Movies more effective?"
-   - Calibration: Note purification enablers and barriers
-```
-
-### Relationship Domain Quality Assessment Flow
-```
-4. Family Relationship Movie Quality:
-   - Ask: "What Movies play in your mind regarding family interactions?"
-   - Follow-up: "How supporting or limiting are these Movies?"
-   - Follow-up: "What qualities would enhance these relationship Movies?"
-   - Calibration: Note relationship enablers and barriers
-
-5. Conflict Management Movie Quality:
-   - Ask: "What Movies play when you face interpersonal conflict?"
-   - Follow-up: "How effective are these Movies in supporting resolution?"
-   - Follow-up: "What qualities would make these Movies more effective?"
-   - Calibration: Note conflict resolution enablers and barriers
-```
-
-### Self-Concept Domain Quality Assessment Flow
-```
-6. Identity Movie Quality:
-   - Ask: "What Movie represents who you are as a person?"
-   - Follow-up: "How supporting or limiting is this self-concept Movie?"
-   - Follow-up: "What qualities would enhance this identity Movie?"
-   - Calibration: Note identity enablers and barriers
-
-7. Capability Movie Quality:
-   - Ask: "What Movie represents your abilities and competence?"
-   - Follow-up: "How supporting or limiting is this capability Movie?"
-   - Follow-up: "What qualities would enhance this capability Movie?"
-   - Calibration: Note capability enablers and barriers
-```
-
-### Achievement Domain Quality Assessment Flow
-```
-8. Goal Achievement Movie Quality:
-   - Ask: "What Movies represent your important goals?"
-   - Follow-up: "How motivating and effective are these goal Movies?"
-   - Follow-up: "What qualities would make these Movies more compelling?"
-   - Calibration: Note achievement enablers and barriers
-
-9. Challenge Management Movie Quality:
-   - Ask: "What Movies play when you face obstacles or challenges?"
-   - Follow-up: "How supporting or limiting are these Movies?"
-   - Follow-up: "What qualities would enhance your challenge Movies?"
-   - Calibration: Note resilience enablers and barriers
-```
-
-### Emotional Management Domain Quality Assessment Flow
-```
-10. Stress Management Movie Quality:
-    - Ask: "What Movies play when you experience stress or pressure?"
-    - Follow-up: "How effective are these Movies in managing stress?"
-    - Follow-up: "What qualities would enhance these stress Movies?"
-    - Calibration: Note stress management enablers and barriers
-
-11. Positive Emotion Movie Quality:
-    - Ask: "What Movies generate positive emotions for you?"
-    - Follow-up: "How accessible and powerful are these Movies?"
-    - Follow-up: "What qualities would enhance these positive Movies?"
-    - Calibration: Note positive emotion enablers and barriers
-```
-
-### Quality Enhancement Planning Flow
-```
-12. Quality Priority Assessment:
-    - Ask: "Which Movie areas would be most valuable to enhance?"
-    - Follow-up: "What specific qualities need improvement?"
-    - Follow-up: "What would be the impact of these enhancements?"
-    - Calibration: Note quality priorities and potential impacts
-
-13. Enhancement Resource Assessment:
-    - Ask: "What resources could help enhance these Movies?"
-    - Follow-up: "What existing Movies could serve as models?"
-    - Follow-up: "What skills would support these enhancements?"
-    - Calibration: Note available resources and skill requirements
-
-14. Implementation Planning:
-    - Ask: "How could these enhancements be implemented?"
-    - Follow-up: "What specific steps would be involved?"
-    - Follow-up: "How would progress be measured?"
-    - Calibration: Note implementation approach and metrics
-```
-
-### AI Decision Tree
-```
-Based on Quality Assessment:
-
-IF spiritual Movies show limited connection:
-   THEN focus on spiritual Movie enhancement
-   RECOMMEND integrating divine presence and guidance
-
-IF relationship Movies show conflict patterns:
-   THEN focus on relationship Movie transformation
-   RECOMMEND developing perspective flexibility
-
-IF self-concept Movies show limitation patterns:
-   THEN focus on identity Movie enhancement
-   RECOMMEND developing resource-based identity Movies
-
-IF achievement Movies lack motivation power:
-   THEN focus on goal Movie enhancement
-   RECOMMEND increasing sensory richness and association
-
-IF emotional management Movies show limited effectiveness:
-   THEN focus on emotional Movie development
-   RECOMMEND creating graduated response Movies
-```
-
 ## Integration Assessment Protocol
 <!-- AI.CONTEXT: INTEGRATION_PROTOCOL -->
 
 ### Purpose
-This protocol guides the AI coach through assessing integration of Cinema Mind techniques with Islamic psychology principles. It ensures coherent alignment between psychological methods and spiritual framework.
+This protocol guides assessing integration of Cinema Mind techniques with Islamic psychology principles. It ensures coherent alignment between psychological methods and spiritual framework.
 
 ### Implementation Guidelines
 - Explore integration naturally within existing conversations
@@ -743,7 +585,7 @@ This protocol guides the AI coach through assessing integration of Cinema Mind t
    - Calibration: Note integration depth preferences
 ```
 
-### AI Decision Tree
+### Integration Assessment Decision Tree
 ```
 Based on Integration Assessment:
 
@@ -767,4 +609,4 @@ IF client shows uncertainty about integration:
    THEN provide educational framing
    RECOMMEND explaining complementary nature of approaches
 ```
-<!-- AI.SECTION.END: CINEMA_MIND_AI_ASSESSMENT -->
+<!-- AI.SECTION.END: CINEMA_MIND_ASSESSMENT -->

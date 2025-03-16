@@ -1,12 +1,12 @@
 <!-- AI.FRAMEWORK.COMPONENT: CINEMA_MIND_CASES -->
 <!-- AI.METADATA
 component: cinema_mind_cases
-version: 1.0
+version: 2.0
 last_updated: 2025
 framework_type: nlp_islamic_coaching
 language: en_ar
 parent: unified_transformation_framework_v3
-path: training/cinema-mind-cases
+path: methodologies/cinema_mind/cases
 references: cinema_mind_implementation, cinema_mind_framework
 -->
 

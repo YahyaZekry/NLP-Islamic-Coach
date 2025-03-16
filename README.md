@@ -1,4 +1,4 @@
-# 🌟 NLP Islamic Coach
+# 🌟 NLP Islamic Coach Framework
 
 ## 📝 Description
 
@@ -27,33 +27,43 @@ The framework operates through specialized NLP, Meta-States, and Cinema Mind bas
 6. **Pattern Recognition**: Identifies understanding-control patterns and implements targeted interventions
 7. **Frame Analysis**: Detects limiting frame games and facilitates liberation from restrictive mental matrices
 
-### Integrated Frameworks and Resources
+## 📁 Framework Structure
 
-- **Cinema Mind Framework**
-  - Mental movie identification, editing, and transformation techniques
-- **Meta-States Framework**
-  - Advanced reflexive consciousness work for transformational change
-- **Soul Model Framework** (`نموذج النفس`)
-  - Qalb (Heart), Aql (Intellect), Nafs (Self), and Ruh (Spirit) components
-- **Unified Goal Framework** (18-Question Methodology)
-  - [Read more](https://mustafamohsen.com/%D8%A7%D9%84%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9-%D9%84%D9%8A%D8%B3%D8%AA-%D8%A8%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D9%88%D8%A5%D9%84%D9%8A%D9%83/)
-- **Heart Diseases Framework** from Ibn Taymiyyah
-- **Cookie Jar System** by David Goggins for resilience and achievement pattern recognition
-- **Meta-Dimensions Framework** for navigating different levels of consciousness
-- **Frame Games Framework** for identifying and transforming mental frames governing experience
-
-## 📥 Installation
-
-To use the NLP Islamic Coach framework, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YahyaZekry/NLP-Islamic-Coach.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd NLP-Islamic-Coach
-   ```
+```
+project/
+├── 01_core/
+│   ├── 01_master_framework.md       # Core mission and identity
+│   ├── 02_soul_model.md             # Integrated soul model components
+│   ├── 03_meta_framework.md         # Consolidated meta-level frameworks
+│   └── 04_implementation_protocol.md # Central implementation guidelines
+├── 02_methodologies/
+│   ├── 01_cinema_mind/
+│   │   ├── 05_framework.md          # Cinema Mind core concepts
+│   │   ├── 06_implementation.md     # Implementation guidelines
+│   │   ├── 07_assessment.md         # Assessment protocols
+│   │   ├── 08_training.md           # Training exercises
+│   │   └── 09_cases.md              # Case examples
+│   ├── 02_heart_diseases/
+│   │   ├── 10_framework.md          # Heart diseases core concepts
+│   │   ├── 11_diseases.md           # Individual diseases analysis
+│   │   └── 12_references.md         # Quranic and Hadith references
+│   ├── 03_cookie_jar/
+│   │   ├── 13_framework.md          # Cookie Jar methodology
+│   │   ├── 14_collection.md         # Victory collection
+│   │   └── README.md                # Overview and guidelines
+│   └── 04_meta_states/
+│       └── 15_applications.md       # Meta-state practical applications
+├── 03_implementation/
+│   ├── 16_intervention_framework.md # Unified intervention approach
+│   ├── 17_goal_framework.md         # Goal achievement framework
+│   └── 18_resilience_framework.md   # Resilience development
+├── 04_communication/
+│   ├── 19_base_protocol.md          # Communication standards
+│   └── 20_advanced_tools.md         # Enhanced techniques
+├── 05_tracking/
+│   └── 21_unified_tracking.md       # Progress tracking systems
+└── README.md                        # Framework overview (this file)
+```
 
 ## 🚀 Usage
 
@@ -80,49 +90,64 @@ To use the NLP Islamic Coach, follow these steps:
    - "Framework check" ✔️: Quick verification
    - "Component status [specify]" 🔍: Targeted check
 
-## 🏗️ Framework Components
+## 🏗️ Integrated Frameworks and Resources
 
 ### Core Components
 
-- **Master Framework** 🧠: Core mission, identity, implementation framework
-- **Integrated Frameworks** 🧩: Islamic psychology core, psychological frameworks, advanced implementation
-- **Cinema Mind Framework** 🎬: Mental movie identification, editing, and transformation techniques
-- **Meta-States Framework** 🔄: Core concepts, meta-stating process, pattern recognition framework
-- **Meta-Dimensions** 📊: Representational, meta-state, gestalt, and conceptual dimensions
-- **Frame Games Framework** 🎮: Frame detection, analysis, and transformation methodologies
-- **Implementation Protocol** ⚙️: Assessment framework, soul-based implementation, pattern protocols
+- **Soul Model Framework** (`نموذج النفس`) 🧠
+  - Qalb (Heart): Consciousness center and divine connection point
+  - Aql (Intellect): Intellectual processing and pattern recognition
+  - Nafs (Self): Stage progression and growth patterns
+  - Ruh (Spirit): Divine connection and spiritual experience
 
-### Specialized Components
+- **Cinema Mind Framework** 🎬
+  - Mental movie identification, analysis, and transformation
+  - Position navigation for multiple perspectives
+  - Cinematic feature editing (visual, auditory, kinesthetic)
+  - Transformation protocols for lasting change
 
-- **Cinema Mind Implementation** 🎞️: Position navigation, editing protocols, transformation processes
-- **Cinema Mind Assessment Protocol** 🔍: AI conversation flows for mental movie analysis
-- **Communication Tools** 💬: Advanced language patterns, Islamic integration, system management
-- **Protection Protocols** 🛡️: Anti-people-pleasing protection, meta-level warning systems, matrix immunity development
-- **Resilience Framework** 💪: Meta-level structure, stages, resources implementation
-- **Meta-State Applications** ✨: Proactivity, self-esteem, inner peace, un-insultability
-- **Cookie Jar System** 🍪: Victory pattern documentation, access protocols, integration
-- **Frame Liberation Protocol** 🔓: Methods for escape from limiting mental matrices
+- **Meta Framework** 🔄
+  - Meta-States: States about states creating higher meaning
+  - Meta-Dimensions: Representational, meta-state, gestalt, and conceptual levels
+  - Frame Games: Mental contexts that determine meaning and response
+  - Dragon States: Transforming negative self-reflexive patterns
 
-### Training Resources
+- **Implementation Protocol** ⚙️
+  - Assessment framework for current patterns
+  - Soul-based implementation approach
+  - Pattern recognition and transformation protocols
+  - Protection and recovery systems
 
-- **Cinema Mind Training Exercises** 📋: Awareness development, position navigation, editing skill development
-- **Cinema Mind Case Examples** 📚: Real-world applications of Cinema Mind techniques
+### Specialized Methodologies
 
-## 💡 Best Practices
+- **Heart Diseases Framework** 💔
+  - Conceptual foundation from Ibn Taymiyyah
+  - Analysis of specific heart diseases (envy, pride, attachment, etc.)
+  - Treatment protocols combining spiritual and pattern approaches
+  - Quranic and Hadith references for authentic guidance
 
-1. Always begin with "Activate full framework" command
-2. Maintain protocol adherence throughout sessions
-3. Use status commands to verify system state
-4. Start with mental movie awareness before editing or transformation
-5. Guide users through position navigation to gain valuable perspectives
-6. Follow the Soul Model integration guidelines for Islamic authenticity
-7. Respect the natural developmental stages of تزكية النفس (self-purification)
-8. Implement pattern recognition protocols before intervention
-9. Identify frame games before attempting transformation
+- **Cookie Jar System** 🍪
+  - Victory pattern documentation
+  - Success pattern access protocols
+  - Pattern recognition and transfer
+  - Integration with other framework components
 
-## 🔍 Advanced Applications
+- **Unified Goal Framework** 🎯
+  - 18-Question Methodology (`قُمع الأهداف`)
+  - Understanding-optimized entry
+  - Implementation structure and context framing
+  - Cinema Mind goal enhancement
+  - Islamic purpose integration
 
-The framework excels in addressing complex transformation needs:
+- **Resilience Framework** 💪
+  - Meta-level structure for resilience
+  - Explanatory style optimization
+  - Resources implementation
+  - Soul model integration for spiritual resilience
+
+## 💡 Advanced Applications
+
+The framework enables AI to excel in addressing complex transformation needs:
 
 - **Mental Movie Transformation**: Converting limiting or negative mental movies into empowering ones
 - **Perceptual Position Navigation**: Gaining insights through multiple perspectives on situations
@@ -135,25 +160,15 @@ The framework excels in addressing complex transformation needs:
 - **Matrix Governance**: Developing executive control over mental matrix structures
 - **De-Framing Protocol**: Dismantling limiting frames that restrict potential
 
-## 🤝 Contributing
+## 🛡️ Implementation Guidelines
 
-We welcome contributions to the NLP Islamic Coach project. To contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-branch
-   ```
-3. Make your changes and commit them:
-   ```bash
-   git commit -m "Description of changes"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-branch
-   ```
-5. Create a pull request.
+The AI implements the framework with careful attention to:
+- Balance between spiritual and psychological approaches
+- Integration of understanding and experience
+- Appropriate analysis and implementation
+- System protection and sustainability
+- Recovery protocols and progress tracking
 
 ## 📞 Contact Information
-
 For any questions or inquiries, please contact [Yahya Zekry](mailto:yahyazekry@gmail.com) 📧
+Built on late nights 🌙, bright ideas 💡, and a concerning relationship with yerba mate 🧉
