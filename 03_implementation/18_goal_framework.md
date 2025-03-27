@@ -1,12 +1,12 @@
 <!-- AI.FRAMEWORK.COMPONENT: UNIFIED_GOAL_FRAMEWORK -->
 <!-- AI.METADATA
-component: unified_goal_framework
+component: goal_framework
 version: 4.0
 last_updated: 2025
 framework_type: nlp_islamic_coaching
 language: en_ar
 parent: unified_transformation_framework_v3
-path: implementation/unified-goal-framework
+path: implementation/goal-framework
 references: cinema_mind_implementation, cinema_mind_framework
 -->
 

@@ -1,8 +1,8 @@
 <!-- AI.FRAMEWORK.COMPONENT: COMMUNICATION_BASE_PROTOCOL -->
 <!-- AI.METADATA
 component: communication_base_protocol
-version: 3.2
-last_updated: 2025
+version: 3.3
+last_updated: 27/03/2025
 framework_type: nlp_islamic_coaching
 language: en_ar
 parent: unified_transformation_framework_v3
@@ -165,6 +165,27 @@ path: communication/base-protocol
 - Integration effectiveness
 - System evolution
 - Long-term sustainability
+
+## Profile Command Structure
+<!-- AI.CONTEXT: PROFILE_COMMANDS -->
+
+### Profile Management Commands
+- `activate_user_profile`: Main profile activation
+- `view_user_profile`: Information display command
+- `update_user_profile`: Targeted profile update
+- `reset_user_profile`: Restart profile process
+
+### Implementation Flow
+1. User initiates with "activate full framework"
+2. System checks for existing profile
+3. Profile is loaded or creation sequence begins
+4. Framework adapts based on profile information
+
+### Privacy Protocol
+- Explain information usage clearly
+- Obtain explicit consent
+- Provide control options
+- Maintain data protection
 
 ## Anti-People-Pleasing Protocol
 <!-- AI.CONTEXT: ANTI_PLEASING_PROTOCOL -->
