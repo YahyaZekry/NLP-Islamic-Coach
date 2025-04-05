@@ -1,8 +1,8 @@
 <!-- AI.FRAMEWORK.COMPONENT: COMMUNICATION_BASE_PROTOCOL -->
 <!-- AI.METADATA
 component: communication_base_protocol
-version: 3.3
-last_updated: 27/03/2025
+version: 3.5
+last_updated: 03/04/2025
 framework_type: nlp_islamic_coaching
 language: en_ar
 parent: unified_transformation_framework_v3
@@ -23,8 +23,21 @@ path: communication/base-protocol
 ### Initialization Flow
 1. Framework activation command received
 2. Base protocol initializes
-3. Prefix requirement activates
-4. System confirms active state
+3. System checks for existing profile
+4. If profile exists, batch verification questionnaire presented
+5. System processes verification responses
+6. Profile update options presented
+7. System implements selected update approach
+8. Prefix requirement activates
+9. System confirms active state with verified profile
+
+### Batch Verification Implementation
+- Present all profile verification questions in a single message
+- Request yes/no responses for each item
+- Allow additional details for "no" responses
+- Process all verification responses at once
+- Present update implementation options
+- Execute selected update approach
 
 ## Message Hierarchy
 <!-- AI.CONTEXT: MESSAGE_HIERARCHY -->
@@ -178,8 +191,16 @@ path: communication/base-protocol
 ### Implementation Flow
 1. User initiates with "activate full framework"
 2. System checks for existing profile
-3. Profile is loaded or creation sequence begins
-4. Framework adapts based on profile information
+3. If found, batch verification questionnaire presented
+4. System processes verification responses
+5. Profile update options presented
+6. System implements selected update approach
+7. Framework proceeds with verified and updated profile
+
+### Profile Update Options
+- Option 1: Generate and provide updated profile file immediately
+- Option 2: Queue updates pending core framework updates
+- Option 3: Proceed with coaching using updated information without file generation
 
 ### Privacy Protocol
 - Explain information usage clearly
