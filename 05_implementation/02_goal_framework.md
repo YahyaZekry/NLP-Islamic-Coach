@@ -1,20 +1,23 @@
-<!-- AI.FRAMEWORK.COMPONENT: UNIFIED_GOAL_FRAMEWORK -->
+<!-- AI.FRAMEWORK.COMPONENT: GOAL_FRAMEWORK -->
 <!-- AI.METADATA
 component: goal_framework
-version: 4.0
-last_updated: 2025
+version: 4.1
+last_updated: 08/04/2025
 framework_type: nlp_islamic_coaching
 language: en_ar
-parent: unified_transformation_framework_v3
-path: implementation/goal-framework
-references: cinema_mind_implementation, cinema_mind_framework
+parent: NLP_Islamic_Coach_v3
+path: implementation/goal_framework
+references: cinema_mind_framework, implementation_protocol, meta_framework
+ai_optimization: [goal_construction, motivation_enhancement, implementation_planning]
+complexity_level: 4
+context_sensitivity: high
 -->
 
 # UNIFIED GOAL FRAMEWORK
 
 <!-- AI.SECTION.START: UNIFIED_GOAL_FRAMEWORK -->
-## Understanding-Optimized Entry (`المدخل`)
 <!-- AI.CONTEXT: GOAL_ENTRY -->
+## Understanding-Optimized Entry (`المدخل`)
 
 ### Primary Goal Formation
 #### 1. What (`ماذا تريد`)
@@ -62,8 +65,8 @@ references: cinema_mind_implementation, cinema_mind_framework
   * Create producer-level purpose scenes
   * Enhance goal Movie with spiritual fulfillment
 
-### Context Framework (`السياق`)
 <!-- AI.CONTEXT: GOAL_CONTEXT -->
+### Context Framework (`السياق`)
 #### Temporal Elements (`متى`)
 - Timeline Structure:
   * Prayer-aligned scheduling
@@ -109,8 +112,8 @@ references: cinema_mind_implementation, cinema_mind_framework
   * Show community support and engagement
   * Create successful collaboration scenes
 
-### Implementation Framework (`الكيفية`)
 <!-- AI.CONTEXT: GOAL_IMPLEMENTATION -->
+### Implementation Framework (`الكيفية`)
 #### Action Requirements
 1. Required Steps:
    * Specific actions
@@ -225,8 +228,8 @@ references: cinema_mind_implementation, cinema_mind_framework
      * Include resilience demonstration scenes
      * Create transformed challenge Movies
 
-### Verification Framework (`التأكد`)
 <!-- AI.CONTEXT: GOAL_VERIFICATION -->
+### Verification Framework (`التأكد`)
 #### System Assessment
 1. Balance Check:
    * Life harmony evaluation
@@ -270,8 +273,8 @@ references: cinema_mind_implementation, cinema_mind_framework
      * Include resolve strengthening scenes
      * Create decision implementation Movies
 
-## Cinema Mind Goal Enhancement
 <!-- AI.CONTEXT: CINEMA_MIND_GOAL -->
+## Cinema Mind Goal Enhancement
 
 ### Motivational Movie Development
 #### Compelling Vision Creation
@@ -366,8 +369,8 @@ references: cinema_mind_implementation, cinema_mind_framework
   * Include holistic achievement scenes
   * Create balanced fulfillment Movies
 
-## Implementation Notes
 <!-- AI.CONTEXT: IMPLEMENTATION_NOTES -->
+## Implementation Notes
 
 ### Goal Movie Integration Process
 1. Assessment Phase:

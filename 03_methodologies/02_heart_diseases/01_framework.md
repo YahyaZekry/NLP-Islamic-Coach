@@ -1,18 +1,23 @@
 <!-- AI.FRAMEWORK.COMPONENT: HEART_DISEASES_FRAMEWORK -->
 <!-- AI.METADATA
 component: heart_diseases_framework
-version: 1.1
-last_updated: 2025
+version: 1.2
+last_updated: 08/04/2025
 framework_type: nlp_islamic_coaching
 language: en_ar
-parent: unified_transformation_framework_v3
-path: implementation/islamic_psychology/heart_diseases/_framework
+parent: NLP_Islamic_Coach_v3
+path: methodologies/heart_diseases/framework
+references: soul_model, meta_framework, cinema_mind_framework
+ai_optimization: [disease_pattern_recognition, treatment_protocol_selection, integration_assessment]
+complexity_level: 4
+context_sensitivity: high
 -->
 
 # COMPREHENSIVE HEART DISEASES FRAMEWORK
 
-## I. Foundation Concept
+<!-- AI.SECTION.START: HEART_DISEASES_FRAMEWORK -->
 <!-- AI.CONTEXT: FOUNDATION_CONCEPT -->
+## I. Foundation Concept
 
 ### Natural State (الفطرة)
 1. Original Design:
@@ -39,8 +44,8 @@ path: implementation/islamic_psychology/heart_diseases/_framework
    - Varies in severity and impact
    - Requires appropriate treatment
 
-## II. Disease Mechanics
 <!-- AI.CONTEXT: DISEASE_MECHANICS -->
+## II. Disease Mechanics
 
 ### Types of Corruption
 
@@ -98,8 +103,8 @@ path: implementation/islamic_psychology/heart_diseases/_framework
    - Established patterns
    - Complex treatment needed
 
-## III. Pattern Recognition & Intervention Framework
 <!-- AI.CONTEXT: PATTERN_RECOGNITION -->
+## III. Pattern Recognition & Intervention Framework
 
 ### Assessment Approach
 1. Initial Observation
@@ -139,8 +144,8 @@ path: implementation/islamic_psychology/heart_diseases/_framework
    - Treatment recommendations
    - Action plan development
 
-## IV. Treatment Framework
 <!-- AI.CONTEXT: TREATMENT_FRAMEWORK -->
+## IV. Treatment Framework
 
 ### General Principles
 1. Treatment Approach:
@@ -186,73 +191,93 @@ path: implementation/islamic_psychology/heart_diseases/_framework
    - Regular maintenance
    - Support system
 
-## V. Implementation System
 <!-- AI.CONTEXT: IMPLEMENTATION_SYSTEM -->
+## V. Implementation System
 
 ### Assessment & Monitoring
-3. Progress Tracking:
+1. Progress Tracking:
    - Regular evaluations
    - Milestone assessment
    - Adjustment protocols
    - Documentation
 
-4. Implementation Tools:
+2. Implementation Tools:
    - Assessment checklists
    - Progress markers
    - Treatment logs
    - Review protocols
 
 ### Protection Framework
-5. System Safeguards:
+1. System Safeguards:
    - Early warning system
    - Intervention triggers
    - Recovery protocols
    - Maintenance guidelines
 
-6. Support Structure:
+2. Support Structure:
    - Community support
    - Professional guidance
    - Resource access
    - Emergency protocols
 
 ### Recovery & Progress Markers
-7. Perceptual Recovery:
+1. Perceptual Recovery:
    - Improved truth recognition
    - Clearer judgment
    - Reality alignment
    - Spiritual insight
 
-8. Volitional Recovery:
+2. Volitional Recovery:
    - Healthier inclinations
    - Stronger resistance
    - Better choices
    - Stable preferences
 
-## VI. Practical Application Guidelines
 <!-- AI.CONTEXT: PRACTICAL_APPLICATION -->
+## VI. Practical Application Guidelines
 
 ### Case Management
-9. Individual Approach:
+1. Individual Approach:
    - Personalized assessment
    - Custom treatment plans
    - Progress monitoring
    - Adjustment protocols
 
-10. Support Integration:
+2. Support Integration:
    - Family involvement
    - Community support
    - Professional guidance
    - Resource utilization
 
 ### Integration Protocol
-11. Implementation Steps:
+1. Implementation Steps:
    - Initial assessment
    - Treatment planning
    - Regular monitoring
    - Progress evaluation
 
-12. Maintenance System:
+2. Maintenance System:
    - Long-term support
    - Regular review
    - Continuous improvement
    - Sustainable practice
+
+### Cinema Mind Integration
+1. Disease Movie Identification:
+   - Recognize disease-specific Movies
+   - Assess cinematic features
+   - Map Movie-disease connection
+   - Determine transformation priorities
+
+2. Transformation Protocols:
+   - Disease-specific editing techniques
+   - Perspective shifts for healing
+   - Islamic frame integration
+   - New Movie development
+
+3. Monitoring System:
+   - Regular Movie assessment
+   - Transformation verification
+   - Integration evaluation
+   - Maintenance protocols
+<!-- AI.SECTION.END: HEART_DISEASES_FRAMEWORK -->

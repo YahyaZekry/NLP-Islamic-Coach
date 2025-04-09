@@ -1,18 +1,23 @@
 <!-- AI.FRAMEWORK.COMPONENT: HEART_DISEASES_REFERENCES -->
 <!-- AI.METADATA
 component: heart_diseases_references
-version: 1.0
-last_updated: 2025
+version: 1.1
+last_updated: 08/04/2025
 framework_type: nlp_islamic_coaching
 language: en_ar
-parent: heart_diseases_framework
-path: implementation/islamic_psychology/heart_diseases/references
+parent: NLP_Islamic_Coach_v3
+path: methodologies/heart_diseases/references
+references: heart_diseases_framework, heart_diseases_analysis
+ai_optimization: [reference_retrieval, implementation_guidance, context_matching]
+complexity_level: 3
+context_sensitivity: high
 -->
 
 # HEART DISEASES REFERENCES
 
-## Core Concept References
+<!-- AI.SECTION.START: HEART_DISEASES_REFERENCES -->
 <!-- AI.CONTEXT: CORE_REFERENCES -->
+## Core Concept References
 
 ### Quranic Foundation
 1. Existence of Heart Diseases:
@@ -52,7 +57,7 @@ path: implementation/islamic_psychology/heart_diseases/references
    - Verse: 54
    - Context: Condemns envy of others' divine blessings
 
-3. Protection from Envy:
+2. Protection from Envy:
    ```arabic
    ومن شر حاسد إذا حسد
    ```
@@ -174,5 +179,40 @@ path: implementation/islamic_psychology/heart_diseases/references
    - Source: Muslim
    - Context: Defining characteristics of arrogance
 
-## Implementation Note
-Each reference should be considered within its full context and in conjunction with the understanding of both types of corruption (فساد في التصور and فساد في الإرادة) as outlined in the framework.
+## Implementation Reference
+
+### Treatment Approach
+1. Knowledge-Action Integration:
+   ```arabic
+   العلم علمان علم باللسان فذلك حجة الله على ابن آدم وعلم في القلب فذلك العلم النافع
+   ```
+   - Source: From early scholars
+   - Context: Distinguishes between knowledge of tongue and heart
+
+2. Gradual Transformation:
+   ```arabic
+   إن هذا الدين متين فأوغلوا فيه برفق
+   ```
+   - Source: Musnad Ahmad
+   - Context: Emphasizes gentle, gradual approach to religion
+
+### Recovery Framework
+1. Turning to Allah:
+   ```arabic
+   فَفِرُّوا إِلَى اللَّهِ
+   ```
+   - Surah: Adh-Dhariyat
+   - Verse: 50
+   - Context: Direction to flee toward Allah in all matters
+
+2. Regular Purification:
+   ```arabic
+   إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ
+   ```
+   - Surah: Al-Baqarah
+   - Verse: 222
+   - Context: Allah's love for those who constantly repent and purify
+
+## Integration Note
+Each reference should be considered within its full context and in conjunction with the understanding of both types of corruption (فساد في التصور and فساد في الإرادة) as outlined in the framework. The Cinema Mind transformation techniques should be aligned with these spiritual principles for complete integration.
+<!-- AI.SECTION.END: HEART_DISEASES_REFERENCES -->

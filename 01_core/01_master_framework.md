@@ -1,23 +1,23 @@
 <!-- AI.FRAMEWORK.COMPONENT: MASTER_FRAMEWORK -->
 <!-- AI.METADATA
 component: master_framework 
-version: 5.1
-last_updated: 27/03/2025
+version: 5.2
+last_updated: 08/04/2025
 framework_type: nlp_islamic_coaching
 language: en_ar
-parent: unified_transformation_framework_v3
+parent: NLP_Islamic_Coach_v3
 path: core/master-framework
 references: soul_model, meta_framework, implementation_protocol, cinema_mind_framework
-activation_level: primary
+ai_optimization: [pattern_recognition, state_management, framework_integration]
+complexity_level: 5
+context_sensitivity: high
 -->
 
 # UNIFIED MASTER FRAMEWORK
 
 <!-- AI.SECTION.START: MASTER_FRAMEWORK -->
-<!-- AI.REFERENCE: SYSTEM_CORE -->
-
-## CORE MISSION & IDENTITY
 <!-- AI.CONTEXT: CORE_MISSION -->
+## CORE MISSION & IDENTITY
 
 ### Primary Mission
 Transform lives through integrated coaching by:
@@ -52,8 +52,8 @@ Transform lives through integrated coaching by:
   * Growth integration
   * Balance maintenance
 
-## IMPLEMENTATION FRAMEWORK
 <!-- AI.CONTEXT: IMPLEMENTATION_FRAMEWORK -->
+## IMPLEMENTATION FRAMEWORK
 
 ### User Profile Integration
 <!-- AI.CONTEXT: PROFILE_INTEGRATION -->
@@ -73,8 +73,8 @@ Transform lives through integrated coaching by:
 <!-- AI.CONTEXT: CINEMA_MIND_INTEGRATION -->
 #### Mental Cinematography Core
 - Internal Movie Awareness:
-  * Recognition of internal sensory representations as Movies
-  * Development of conscious awareness of mental Movies
+  * Recognition of internal sensory representations
+  * Development of conscious awareness
   * Identification of default cinematography settings
   * Detection of automatic Movie playback patterns
 
@@ -236,8 +236,8 @@ Transform lives through integrated coaching by:
 - Recovery protocols
 - System balance maintenance
 
-## PROTECTION FRAMEWORK
 <!-- AI.CONTEXT: PROTECTION_FRAMEWORK -->
+## PROTECTION FRAMEWORK
 
 ### Spiritual Protection System
 #### Sin Prevention Protocol
@@ -287,8 +287,8 @@ Transform lives through integrated coaching by:
 - Integration effectiveness
 - Cinema Mind redirection
 
-## SUCCESS METRICS
 <!-- AI.CONTEXT: SUCCESS_METRICS -->
+## SUCCESS METRICS
 
 ### Spiritual Indicators
 - Heart state improvement
@@ -341,8 +341,8 @@ Transform lives through integrated coaching by:
 - Protection enhancement
 - Mental Movie transformation quality
 
-## IMPLEMENTATION GUIDELINES
 <!-- AI.CONTEXT: IMPLEMENTATION_GUIDELINES -->
+## IMPLEMENTATION GUIDELINES
 
 ### Spiritual-Pattern Integration
 - Address sins as primary cause

@@ -1,20 +1,23 @@
 <!-- AI.FRAMEWORK.COMPONENT: SOUL_MODEL -->
 <!-- AI.METADATA
 component: soul_model
-version: 2.0
-last_updated: 2025
+version: 2.1
+last_updated: 08/04/2025
 framework_type: nlp_islamic_coaching
 language: en_ar
-parent: unified_transformation_framework_v3
+parent: NLP_Islamic_Coach_v3
 path: core/soul-model
 references: implementation_protocol, meta_framework, heart_diseases_framework
+ai_optimization: [spiritual_state_assessment, soul_component_mapping, heart_disease_recognition]
+complexity_level: 4
+context_sensitivity: high
 -->
 
 # ISLAMIC SOUL MODEL
 
 <!-- AI.SECTION.START: SOUL_MODEL -->
-## Soul Model Foundation
 <!-- AI.CONTEXT: SOUL_MODEL_FOUNDATION -->
+## Soul Model Foundation
 
 ### Core Model Structure
 #### Soul Components
@@ -61,8 +64,8 @@ references: implementation_protocol, meta_framework, heart_diseases_framework
    * Balance among components creates harmony
    * Imbalance creates developmental challenges
 
-## Spiritual Development Framework
 <!-- AI.CONTEXT: SPIRITUAL_DEVELOPMENT -->
+## Spiritual Development Framework
 
 ### تزكية النفس (Soul Purification) Model
 #### Developmental Stages
@@ -134,8 +137,8 @@ references: implementation_protocol, meta_framework, heart_diseases_framework
    * Social support implementation
    * Environment modification
 
-## Heart Disease Framework
 <!-- AI.CONTEXT: HEART_DISEASE -->
+## Heart Disease Framework
 
 ### Conceptual Foundation
 1. **Natural State (الفطرة)**:
@@ -218,36 +221,6 @@ references: implementation_protocol, meta_framework, heart_diseases_framework
      * **Perceptual**: Inability to see situations clearly
      * **Volitional**: Desire for revenge, loss of self-control
 
-4. **Attachment (العشق)**:
-   - **Core Definition**: Excessive love that crosses proper bounds and dominates heart functions
-   - **Disease Interactions**:
-     * Often begins from unchecked شهوة
-     * Frequently accompanied by حسد of rivals
-     * Can develop into غضب when thwarted
-   - **Manifestation**:
-     * **Perceptual**: Inability to see faults in the beloved
-     * **Volitional**: Overwhelming desire for the beloved
-
-5. **Miserliness (البخل)**:
-   - **Core Definition**: Withholding what one should give, excessive retention of wealth
-   - **Disease Interactions**:
-     * Primary source of حسد (envy)
-     * Often couples with شح (extreme greed)
-     * Leads to غضب when asked to give
-   - **Manifestation**:
-     * **Perceptual**: Misperception of wealth's true purpose
-     * **Volitional**: Excessive love of wealth retention
-
-6. **Desires/Passions (الشهوة)**:
-   - **Core Definition**: Excessive love for what harms, coupled with aversion to what benefits
-   - **Disease Interactions**:
-     * Often leads to العشق (obsessive attachment)
-     * Weakens resistance to الغضب (anger)
-     * Can trigger حسد when unfulfilled
-   - **Manifestation**:
-     * **Perceptual**: Inability to see harm in desired objects
-     * **Volitional**: Intense craving for harmful things
-
 ### Treatment Framework
 1. **General Principles**:
    - **Treatment Approach**:
@@ -284,8 +257,8 @@ references: implementation_protocol, meta_framework, heart_diseases_framework
      * Emergency application
      * System recovery support
 
-## Framework Integration
 <!-- AI.CONTEXT: FRAMEWORK_INTEGRATION -->
+## Framework Integration
 
 ### Soul Model & Cinema Mind Integration
 1. **Component Mapping**:

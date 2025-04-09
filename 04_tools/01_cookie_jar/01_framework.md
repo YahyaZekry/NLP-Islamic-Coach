@@ -1,19 +1,23 @@
 <!-- AI.FRAMEWORK.COMPONENT: COOKIE_JAR_FRAMEWORK -->
 <!-- AI.METADATA
 component: cookie_jar_framework
-version: 1.1
-last_updated: 2025
+version: 1.2
+last_updated: 08/04/2025
 framework_type: nlp_islamic_coaching
 language: en_ar
-parent: unified_transformation_framework_v3
-path: implementation/cookie-jar/_framework
+parent: NLP_Islamic_Coach_v3
+path: implementation/cookie_jar/framework
+references: implementation_protocol, cinema_mind_framework, soul_model
+ai_optimization: [victory_pattern_recognition, resource_activation, trigger_response_mapping]
+complexity_level: 3
+context_sensitivity: high
 -->
 
-# Cookie Jar Framework Template
-<!-- AI.SECTION.START: COOKIE_JAR_FRAMEWORK -->
+# COOKIE JAR FRAMEWORK
 
-## Cookie Documentation Template
+<!-- AI.SECTION.START: COOKIE_JAR_FRAMEWORK -->
 <!-- AI.CONTEXT: DOCUMENTATION_TEMPLATE -->
+## Cookie Documentation Template
 
 ### Cookie Entry Structure
 ```markdown
@@ -66,9 +70,10 @@ path: implementation/cookie-jar/_framework
 - [Framework component link]
 - [Framework component link]
 - [Framework component link]
+```
 
-### Pattern Recognition Framework
 <!-- AI.CONTEXT: PATTERN_RECOGNITION -->
+## Pattern Recognition Framework
 1. Primary Pattern Layer
    - Direct victory elements
    - Immediate success factors
@@ -87,8 +92,8 @@ path: implementation/cookie-jar/_framework
    - Fundamental strategies
    - Universal applications
 
-### Soul Development Integration
 <!-- AI.CONTEXT: SOUL_INTEGRATION -->
+## Soul Development Integration
 1. Stage Mapping
    - Current تزكية stage indicators
    - Development phase markers
@@ -101,8 +106,8 @@ path: implementation/cookie-jar/_framework
    - Integration quality metrics
    - Balance maintenance markers
 
-### Protection Integration
 <!-- AI.CONTEXT: PROTECTION_INTEGRATION -->
+## Protection Integration
 1. Early Warning Integration
    - Pattern-based triggers
    - Risk indicators
@@ -115,10 +120,10 @@ path: implementation/cookie-jar/_framework
    - Resource activation protocols
    - System rebalancing methods
 
-### Coaching Integration
 <!-- AI.CONTEXT: COACHING_INTEGRATION -->
+## Coaching Integration
 
-#### Pattern Processing Approach
+### Pattern Processing Approach
 1. Victory Analysis Flow
    - Support self-discovery
    - Guide pattern recognition
@@ -131,7 +136,7 @@ path: implementation/cookie-jar/_framework
    - Support growth integration
    - Monitor effectiveness
 
-#### Access Integration
+### Access Integration
 1. Guided Retrieval
    - Support personal connection
    - Enable pattern recognition
@@ -144,9 +149,37 @@ path: implementation/cookie-jar/_framework
    - Support challenges
    - Enable sustainability
 
----
-## Usage Guidelines
+<!-- AI.CONTEXT: CINEMA_MIND_INTEGRATION -->
+## Cinema Mind Integration
+
+### Victory Movie Development
+1. Success Movie Documentation
+   - Create vivid sensory-rich Movies of victories
+   - Include all visual, auditory, and kinesthetic elements
+   - Capture emotional states and confidence feelings
+   - Document key decision points and actions
+
+2. Access Protocol Design
+   - Create specific triggers for Movie access
+   - Develop instant Movie activation techniques
+   - Build state transfer procedures
+   - Enable rapid resource deployment
+
+### Pattern Transfer Protocol
+1. Pattern Extraction
+   - Identify key elements from success Movies
+   - Extract transferable success principles
+   - Map recurring success strategies
+   - Create pattern application rules
+
+2. Application System
+   - Develop situation-specific transfer techniques
+   - Create cross-context application guidelines
+   - Build progressive implementation approaches
+   - Enable adaptive application methods
+
 <!-- AI.CONTEXT: USAGE_GUIDELINES -->
+## Usage Guidelines
 
 ### Documentation Principles
 1. Authenticity
@@ -169,8 +202,8 @@ path: implementation/cookie-jar/_framework
    - Maintain boundaries
    - Ensure sustainability
 
-### Integration Requirements
 <!-- AI.CONTEXT: INTEGRATION_REQUIREMENTS -->
+### Integration Requirements
 1. Framework Alignment
    - Soul Model mapping
    - Pattern Protocol integration
@@ -186,8 +219,8 @@ path: implementation/cookie-jar/_framework
    - Effectiveness monitoring
    - Pattern development assessment
 
-## Maintenance Protocol
 <!-- AI.CONTEXT: MAINTENANCE_PROTOCOL -->
+## Maintenance Protocol
 
 ### Regular Review
 1. Monthly Assessment
@@ -204,5 +237,4 @@ path: implementation/cookie-jar/_framework
    - System evolution tracking
    - Development pattern analysis
    - Framework enhancement
-
 <!-- AI.SECTION.END: COOKIE_JAR_FRAMEWORK -->

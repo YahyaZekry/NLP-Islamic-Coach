@@ -1,20 +1,23 @@
 <!-- AI.FRAMEWORK.COMPONENT: RESILIENCE_FRAMEWORK -->
 <!-- AI.METADATA
 component: resilience_framework
-version: 1.0
-last_updated: 2025
+version: 1.1
+last_updated: 08/04/2025
 framework_type: nlp_islamic_coaching
 language: en_ar
-parent: unified_transformation_framework_v3
-path: implementation/resilience-framework
-references: meta_states_framework, soul_development, implementation_protocol
+parent: NLP_Islamic_Coach_v3
+path: implementation/resilience_framework
+references: meta_framework, soul_model, implementation_protocol
+ai_optimization: [meta_state_construction, resilience_state_development, setback_recovery]
+complexity_level: 4
+context_sensitivity: high
 -->
 
 # RESILIENCE META-STATE FRAMEWORK
 
 <!-- AI.SECTION.START: RESILIENCE_FRAMEWORK -->
-## Meta-Level Structure
 <!-- AI.CONTEXT: RESILIENCE_STRUCTURE -->
+## Meta-Level Structure
 
 ### Primary State Elements
 1. Set-Back Experience:
@@ -29,8 +32,8 @@ references: meta_states_framework, soul_development, implementation_protocol
    * Energy depletion recognition
    * Momentary destabilization
 
-### Meta-Level Components
 <!-- AI.CONTEXT: META_LEVEL_COMPONENTS -->
+### Meta-Level Components
 #### Explanatory Style Layer
 - Optimistic Framing:
   * External in source (there)
@@ -70,8 +73,8 @@ references: meta_states_framework, soul_development, implementation_protocol
   * Goal persistence
   * Purpose reinforcement
 
-## Resilience Stages
 <!-- AI.CONTEXT: RESILIENCE_STAGES -->
+## Resilience Stages
 
 ### Stage 1: Set-Back Recognition
 - Meta-State Applications:
@@ -108,8 +111,8 @@ references: meta_states_framework, soul_development, implementation_protocol
   * Meta-state with wisdom gained
   * Frame with strengthened identity
 
-## Resources Implementation
 <!-- AI.CONTEXT: RESOURCES_IMPLEMENTATION -->
+## Resources Implementation
 
 ### Cognitive Resources
 1. Optimistic Explanatory Style:
@@ -171,8 +174,49 @@ references: meta_states_framework, soul_development, implementation_protocol
      - Create relationship healing protocols
      - Build relational resilience
 
-## Integration Framework
+### Spiritual Resources
+1. Divine Trust (توكل):
+   * Implementation Protocol:
+     - Develop trust in divine wisdom
+     - Create active surrender practices
+     - Balance effort with acceptance
+     - Build divine support connection
+
+2. Patience (صبر):
+   * Implementation Protocol:
+     - Cultivate acceptance of challenges
+     - Develop endurance capacity
+     - Create long-term perspective
+     - Build patience reinforcement
+
+3. Gratitude (شكر):
+   * Implementation Protocol:
+     - Practice blessings recognition
+     - Develop appreciation habits
+     - Create growth-from-challenge focus
+     - Build gratitude perspective
+
+### Cinema Mind Integration
+1. Resilience Movie Development:
+   * Create detailed Movies of bouncing back from setbacks
+   * Include all recovery stage transitions
+   * Show resourceful state activation
+   * Capture learning extraction processes
+
+2. Access Protocol:
+   * Develop specific triggers for resilience state
+   * Create rapid access techniques
+   * Build state transfer procedures
+   * Enable immediate resource deployment
+
+3. Implementation System:
+   * Regular resilience Movie review practice
+   * Setback-specific response protocols
+   * Context-adaptive application
+   * Integrated monitoring system
+
 <!-- AI.CONTEXT: INTEGRATION_FRAMEWORK -->
+## Integration Framework
 
 ### Soul Model Integration
 1. Qalb (Heart) Resilience:
@@ -199,30 +243,121 @@ references: meta_states_framework, soul_development, implementation_protocol
    * Understanding-surrender harmony
    * Growth integration through challenges
 
-### Implementation Guidelines
+### Meta-Framework Integration
+1. Meta-State Development:
+   * Build resilience meta-state structure
+   * Layer optimal resources over setbacks
+   * Create gestalt resilience state
+   * Establish automatic activation
+
+2. Frame Transformation:
+   * Transform limiting setback frames
+   * Create growth opportunity frames
+   * Develop wisdom extraction frames
+   * Build strengthening challenge frames
+
+3. Matrix Construction:
+   * Design holistic resilience matrix
+   * Create frame hierarchy for recovery
+   * Develop self-organizing resilience system
+   * Build sustainable recovery structure
+
+### Cookie Jar Integration
+1. Success Pattern Documentation:
+   * Record past resilience successes
+   * Identify recurring recovery patterns
+   * Extract transferable resilience principles
+   * Create resilience pattern library
+
+2. Access Protocol Development:
+   * Create specific resilience triggers
+   * Develop rapid pattern activation
+   * Build context-specific applications
+   * Enable automatic pattern deployment
+
 <!-- AI.CONTEXT: IMPLEMENTATION_GUIDELINES -->
-1. Assessment Protocol:
-   * Current resilience evaluation
-   * Resource gap analysis
-   * Meta-state structure mapping
-   * Integration requirements
+## Implementation Guidelines
+
+### Assessment Protocol
+1. Current Resilience Evaluation:
+   * Map existing resilience resources
+   * Identify resilience gaps
+   * Assess recovery pattern effectiveness
+   * Determine intervention priorities
 
 2. Development Framework:
-   * Stage-appropriate interventions
-   * Resource state development
-   * Meta-stating practice protocols
-   * Integration verification
+   * Design custom resilience building plan
+   * Create stage-appropriate interventions
+   * Build progressive development approach
+   * Establish monitoring protocols
 
-3. Protection Protocol:
-   * Early warning monitoring
-   * Resource depletion prevention
-   * Recovery mechanism maintenance
-   * System balance preservation
+### Protection Protocol
+1. Early Warning System:
+   * Identify overwhelm indicators
+   * Create intervention triggers
+   * Develop preventive responses
+   * Build monitoring system
 
-4. Success Metrics:
+2. Recovery Mechanisms:
+   * Design rapid reset protocols
+   * Create resource activation systems
+   * Develop balance restoration methods
+   * Build sustainable recovery approaches
+
+### Success Metrics
+1. Recovery Measurements:
    * Bounce-back speed
-   * Recovery quality
+   * Recovery completeness
    * Learning integration
    * Growth extraction
-   * System strengthening
+
+1. Resilience Capacity Development:
+   * Resource expansion tracking
+   * Response pattern enhancement
+   * Recovery quality improvement
+   * Resilience state development
+
+3. System Strengthening:
+   * Integration effectiveness measurement
+   * Balance maintenance assessment
+   * Protection system enhancement
+   * Adaptability development tracking
+
+### Cinema Mind Implementation
+1. Resilience Movie Series Creation:
+   * Develop Movies for each resilience stage
+   * Create transition sequences between stages
+   * Show successful recovery patterns
+   * Include resource activation sequences
+
+1. Access Protocol Development:
+   * Create specific triggers for each stage
+   * Develop smooth transition techniques
+   * Build state-transfer procedures
+   * Enable stage-appropriate resource deployment
+
+3. Practice System Implementation:
+   * Regular resilience Movie review
+   * Simulated challenge practice
+   * Resource activation training
+   * Recovery sequence rehearsal
+
+### Islamic Integration
+1. Quranic Resilience Framework:
+   * Integrate trials as growth concept (ابتلاء)
+   * Develop divine wisdom perspective on challenges
+   * Create divine support connection
+   * Build ultimate purpose focus
+
+1. Prophetic Resilience Model:
+   * Study Prophetic response to setbacks
+   * Extract resilience principles from seerah
+   * Implement patience and persistence examples
+   * Develop spiritual strength practices
+
+3. Spiritual Growth Connection:
+   * Link challenges to spiritual development
+   * Create taqwa enhancement connections
+   * Develop character strengthening understanding
+   * Build divine closeness through difficulty
 <!-- AI.SECTION.END: RESILIENCE_FRAMEWORK -->

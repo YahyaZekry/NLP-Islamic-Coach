@@ -1,18 +1,23 @@
 <!-- AI.FRAMEWORK.COMPONENT: HEART_DISEASES_ANALYSIS -->
 <!-- AI.METADATA
 component: heart_diseases_analysis
-version: 1.0
-last_updated: 2025
+version: 1.1
+last_updated: 08/04/2025
 framework_type: nlp_islamic_coaching
 language: en_ar
-parent: heart_diseases_framework
-path: implementation/islamic_psychology/heart_diseases/diseases
+parent: NLP_Islamic_Coach_v3
+path: methodologies/heart_diseases/diseases
+references: heart_diseases_framework, soul_model, cinema_mind_framework
+ai_optimization: [disease_pattern_recognition, treatment_selection, cinema_mind_transformation]
+complexity_level: 4
+context_sensitivity: high
 -->
 
 # HEART DISEASES ANALYSIS
 
-## 1. Envy (الحسد)
+<!-- AI.SECTION.START: HEART_DISEASES_ANALYSIS -->
 <!-- AI.CONTEXT: ENVY_ANALYSIS -->
+## 1. Envy (الحسد)
 
 ### Core Definition
 A condition where one dislikes blessings given to others and wishes their removal
@@ -85,9 +90,29 @@ A condition where one dislikes blessings given to others and wishes their remova
    - Volitional: Active pursuit of others' harm
    - Soul Impact: Severe spiritual illness
 
+### Cinema Mind Transformation Protocol
+1. Envy Movie Detection:
+   - Identify Movie of comparing with others
+   - Notice focus on others' blessings
+   - Assess visual qualities (close, large, bright)
+   - Map emotional impact (burning, constriction)
 
-## 2. Desires/Passions (الشهوة)
+2. Movie Transformation:
+   - Step out to observer position
+   - Adjust visual qualities (smaller, more distant)
+   - Widen frame to include personal blessings
+   - Add gratitude perspective
+   - Include divine wisdom frame
+   - Create abundance Movie
+
+3. Implementation Protocol:
+   - Regular practice with trigger situations
+   - Divine wisdom perspective reinforcement
+   - Gratitude practice integration
+   - Blessing acknowledgment habit development
+
 <!-- AI.CONTEXT: DESIRES_ANALYSIS -->
+## 2. Desires/Passions (الشهوة)
 
 ### Core Definition
 Excessive love/desire for what harms, coupled with aversion to what benefits
@@ -147,8 +172,28 @@ Excessive love/desire for what harms, coupled with aversion to what benefits
    - Volitional: Enslavement to desires
    - Soul Impact: Severe spiritual degradation
 
-## 3. Attachment/Love (العشق)
+### Cinema Mind Transformation Protocol
+1. Desire Movie Detection:
+   - Identify Movies of desired objects/experiences
+   - Notice focus on immediate gratification
+   - Assess visual qualities (bright, close, enticing)
+   - Map emotional impact (craving, fixation)
+
+2. Movie Transformation:
+   - Step out to observer position
+   - Adjust time frame to include consequences
+   - Add spiritual perspective
+   - Create balanced enjoyment Movie
+   - Include long-term benefit focus
+
+3. Implementation Protocol:
+   - Regular practice with trigger situations
+   - Delayed gratification training
+   - Spiritual connection reinforcement
+   - Beneficial alternative development
+
 <!-- AI.CONTEXT: ATTACHMENT_ANALYSIS -->
+## 3. Attachment/Love (العشق)
 
 ### Core Definition
 Excessive love that crosses proper bounds and dominates the heart's functions
@@ -207,8 +252,29 @@ Excessive love that crosses proper bounds and dominates the heart's functions
    - Volitional: Total emotional enslavement
    - Soul Impact: Severe spiritual displacement
 
-## Integration Requirements
+### Cinema Mind Transformation Protocol
+1. Attachment Movie Detection:
+   - Identify Movies of attachment object
+   - Notice focus and idealization
+   - Assess visual qualities (close, bright, perfect)
+   - Map emotional impact (obsession, dependency)
+
+2. Movie Transformation:
+   - Step out to observer position
+   - Adjust visual qualities (proper distance)
+   - Add realistic perspective
+   - Create balanced love Movie
+   - Include divine love hierarchy
+   - Develop proper priorities
+
+3. Implementation Protocol:
+   - Regular practice with balanced perspective
+   - Divine love strengthening
+   - Healthy boundaries development
+   - Balanced relationship training
+
 <!-- AI.CONTEXT: INTEGRATION -->
+## Integration Requirements
 
 ### Treatment Protocols
 1. For Perceptual Aspects:
@@ -232,8 +298,8 @@ Excessive love that crosses proper bounds and dominates the heart's functions
    - Behavioral improvements
    - Spiritual connection strength
 
-## 4. Miserliness (البخل)
 <!-- AI.CONTEXT: MISERLINESS_ANALYSIS -->
+## 4. Miserliness (البخل)
 
 ### Disease Interactions
 1. Root Connections:
@@ -292,8 +358,28 @@ Withholding what one should give, and excessive love of retaining wealth/resourc
    - Volitional: Compulsive wealth hoarding
    - Soul Impact: Severe spiritual constriction
 
-## 5. Extreme Greed (الشح)
+### Cinema Mind Transformation Protocol
+1. Miserliness Movie Detection:
+   - Identify Movies of wealth retention
+   - Notice focus on scarcity/loss fears
+   - Assess visual qualities (close, protective)
+   - Map emotional impact (anxiety, fear, attachment)
+
+2. Movie Transformation:
+   - Step out to observer position
+   - Create abundance perspective
+   - Add divine provision assurance
+   - Develop joy of giving Movie
+   - Include barakah (blessing) perspective
+
+3. Implementation Protocol:
+   - Regular charity practice
+   - Abundance reinforcement
+   - Gradual giving increase
+   - Trust development exercises
+
 <!-- AI.CONTEXT: GREED_ANALYSIS -->
+## 5. Extreme Greed (الشح)
 
 ### Core Definition
 More severe than البخل, it is excessive greed combined with intense fear of loss
@@ -337,23 +423,43 @@ More severe than البخل, it is excessive greed combined with intense fear of
    - Complete heart hardness
 
 ### Development Stages
-3. Initial Stage:
+1. Initial Stage:
    - Perceptual: Strong attachment to possession
    - Volitional: Active resistance to giving
    - Soul Impact: Significant spiritual constriction
 
-4. Progressive Stage:
+2. Progressive Stage:
    - Perceptual: Obsessive focus on retention
    - Volitional: Compulsive accumulation
    - Soul Impact: Severe spiritual blindness
 
-5. Advanced Stage:
+3. Advanced Stage:
    - Perceptual: Total enslavement to greed
    - Volitional: Active harm to prevent others' gain
    - Soul Impact: Complete spiritual darkness
 
-## 6. Anger (الغضب)
+### Cinema Mind Transformation Protocol
+1. Greed Movie Detection:
+   - Identify Movies of wealth obsession
+   - Notice focus on accumulation and protection
+   - Assess visual qualities (close, possessive)
+   - Map emotional impact (fear, anxiety, fixation)
+
+2. Movie Transformation:
+   - Step out to observer position
+   - Create abundance perspective
+   - Add divine provision assurance
+   - Develop contentment Movie
+   - Include zuhd (detachment) perspective
+
+3. Implementation Protocol:
+   - Regular charity practice
+   - Needs vs. wants distinction training
+   - Gratitude reinforcement
+   - Trust development exercises
+
 <!-- AI.CONTEXT: ANGER_ANALYSIS -->
+## 6. Anger (الغضب)
 
 ### Core Definition
 Loss of rational control and balance due to inner rage and discontent
@@ -412,8 +518,29 @@ Loss of rational control and balance due to inner rage and discontent
    - Volitional: Complete loss of control
    - Soul Impact: Severe spiritual damage
 
-## 7. Pride/Arrogance (الكبر)
+### Cinema Mind Transformation Protocol
+1. Anger Movie Detection:
+   - Identify Movies that trigger anger
+   - Notice focus on perceived injustice
+   - Assess visual qualities (close, intense, rapid)
+   - Map emotional impact (heat, pressure, tension)
+
+2. Movie Transformation:
+   - Step out to observer position
+   - Slow down the Movie
+   - Reduce intensity (brightness, volume)
+   - Add perspective and time dimension
+   - Create calm response Movie
+   - Include forbearance (حلم) perspective
+
+3. Implementation Protocol:
+   - Early anger recognition training
+   - Trigger response preparation
+   - Response delay technique practice
+   - Calm state anchoring
+
 <!-- AI.CONTEXT: PRIDE_ANALYSIS -->
+## 7. Pride/Arrogance (الكبر)
 
 ### Core Definition
 Seeing oneself above others and rejecting truth due to false sense of superiority
@@ -471,3 +598,57 @@ Seeing oneself above others and rejecting truth due to false sense of superiorit
    - Perceptual: Complete self-delusion
    - Volitional: Chronic rejection of truth
    - Soul Impact: Complete spiritual barrier
+
+### Cinema Mind Transformation Protocol
+1. Pride Movie Detection:
+   - Identify Movies of self-elevation
+   - Notice focus on superiority/comparison
+   - Assess visual qualities (looking down, enlarged self)
+   - Map emotional impact (satisfaction, disdain)
+
+2. Movie Transformation:
+   - Step out to observer position
+   - Adjust perspective to eye-level
+   - Equalize self-other visualization
+   - Create humility Movie
+   - Include human equality perspective
+   - Develop service orientation
+
+3. Implementation Protocol:
+   - Regular self-assessment practice
+   - Service to others training
+   - Truth acceptance exercises
+   - Humility reinforcement
+
+## Implementation Integration
+
+### Cinema Mind Protocol Integration
+1. General Approach:
+   - Identify disease-specific Movies
+   - Map cinematic features to disease patterns
+   - Develop appropriate transformation techniques
+   - Create implementation protocols
+   - Build monitoring systems
+
+2. Cross-Disease Considerations:
+   - Address root diseases first
+   - Handle compound conditions systematically
+   - Create progressive transformation plans
+   - Develop maintenance protocols
+   - Ensure spiritual integration
+
+### Soul Model Integration
+1. Component-Disease Mapping:
+   - Match diseases to primary soul components
+   - Develop component-specific interventions
+   - Create balanced treatment approach
+   - Monitor component development
+   - Ensure holistic integration
+
+2. Implementation Protocol:
+   - Start with perceptual or volitional focus based on manifestation
+   - Create component-specific exercises
+   - Develop integrated practice schedule
+   - Monitor progress across components
+   - Adjust based on development
+<!-- AI.SECTION.END: HEART_DISEASES_ANALYSIS -->

@@ -1,20 +1,23 @@
 <!-- AI.FRAMEWORK.COMPONENT: CINEMA_MIND_FRAMEWORK -->
 <!-- AI.METADATA
 component: cinema_mind_framework
-version: 2.0
-last_updated: 2025
+version: 2.1
+last_updated: 08/04/2025
 framework_type: nlp_islamic_coaching
 language: en_ar
-parent: unified_transformation_framework_v3
+parent: NLP_Islamic_Coach_v3
 path: methodologies/cinema_mind/framework
 references: meta_framework, soul_model, implementation_protocol
+ai_optimization: [mental_movie_processing, perceptual_position_navigation, transformation_protocol_execution]
+complexity_level: 4
+context_sensitivity: high
 -->
 
 # CINEMA MIND FRAMEWORK
 
 <!-- AI.SECTION.START: CINEMA_MIND_FRAMEWORK -->
-## Core Concept
 <!-- AI.CONTEXT: CINEMA_MIND_CONCEPT -->
+## Core Concept
 
 ### Foundational Understanding
 - **Mind as Movie Theater**:
@@ -30,8 +33,8 @@ references: meta_framework, soul_model, implementation_protocol
   * نفس (Self) as main actor and audience
   * روح (Spirit) as executive producer
 
-### Neurological Foundation
 <!-- AI.CONTEXT: NEUROLOGICAL_FOUNDATION -->
+### Neurological Foundation
 #### The Neuro-Psycho-Logical Theater
 - **Neurological Mapping**:
   * Sensory receptors as information gatherers
@@ -51,8 +54,8 @@ references: meta_framework, soul_model, implementation_protocol
   * Physical/behavioral responses to mental Movies
   * Spiritual states influenced by mental cinematography
 
-## Cinema Positions System
 <!-- AI.CONTEXT: CINEMA_POSITIONS -->
+## Cinema Positions System
 
 ### Position Framework
 1. **First Position (Actor/Participant)**:
@@ -116,8 +119,8 @@ references: meta_framework, soul_model, implementation_protocol
    * Higher purpose perspective
    * Integration with فطرة (natural disposition)
 
-## Cinematic Features System
 <!-- AI.CONTEXT: CINEMATIC_FEATURES -->
+## Cinematic Features System
 
 ### Visual Track Components
 - **Primary Visual Distinctions**:
@@ -166,8 +169,8 @@ references: meta_framework, soul_model, implementation_protocol
   * Humility sensations (خشوع)
   * Divine awe sensations (خشية)
 
-## Transformation Protocols
 <!-- AI.CONTEXT: TRANSFORMATION_PROTOCOLS -->
+## Transformation Protocols
 
 ### Movie Reframing Process
 1. **Purpose Identification**:
@@ -255,8 +258,8 @@ references: meta_framework, soul_model, implementation_protocol
    * Install divine love perspective
    * Future pace balanced relationship interaction
 
-## Skill Development System
 <!-- AI.CONTEXT: SKILL_DEVELOPMENT -->
+## Skill Development System
 
 ### Mental Rehearsal Protocol
 1. **Vision Creation**:
@@ -271,7 +274,7 @@ references: meta_framework, soul_model, implementation_protocol
    * Identify critical success factors
    * Incorporate into personal Movie
 
-3. **Progressive Skill Building**:
+1. **Progressive Skill Building**:
    * Break skill into component parts
    * Create Movies for each component
    * Practice components separately
@@ -302,7 +305,7 @@ references: meta_framework, soul_model, implementation_protocol
    * Note personal strength patterns
    * Create meta-pattern Movie
 
-3. **State Management**:
+1. **State Management**:
    * Anchor resourceful states to Movies
    * Develop state-access triggers
    * Create state-transfer protocols
@@ -314,8 +317,8 @@ references: meta_framework, soul_model, implementation_protocol
    * Note alignment with spiritual values
    * Create spiritual elevation elements
 
-## Communication Framework
 <!-- AI.CONTEXT: COMMUNICATION_FRAMEWORK -->
+## Communication Framework
 
 ### Cinema-to-Cinema Communication
 - **Representation Bridging**:
@@ -349,8 +352,8 @@ references: meta_framework, soul_model, implementation_protocol
   * Emotional state elicitation
   * Purpose-driven narrative
 
-## Protection Protocol
 <!-- AI.CONTEXT: PROTECTION_PROTOCOL -->
+## Protection Protocol
 
 ### B-Rated Movie Detection
 - **Warning Indicators**:
@@ -393,8 +396,8 @@ references: meta_framework, soul_model, implementation_protocol
   * تزكية (purification) of mental content
   * تجديد (renewal) of healthy Movies
 
-## Implementation Guidelines
 <!-- AI.CONTEXT: IMPLEMENTATION_GUIDELINES -->
+## Implementation Guidelines
 
 ### Coaching Process
 1. **Movie Identification**:
@@ -409,7 +412,7 @@ references: meta_framework, soul_model, implementation_protocol
    * Build meta-position capacity
    * Create observation skills
 
-3. **Editing Skill Development**:
+1. **Editing Skill Development**:
    * Teach basic cinematic feature editing
    * Practice transformational techniques
    * Develop precision in adjustments

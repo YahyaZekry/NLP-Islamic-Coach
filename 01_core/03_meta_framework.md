@@ -1,20 +1,23 @@
-<!-- AI.FRAMEWORK.COMPONENT: CONSOLIDATED_META_FRAMEWORK -->
+<!-- AI.FRAMEWORK.COMPONENT: META_FRAMEWORK -->
 <!-- AI.METADATA
-component: consolidated_meta_framework
-version: 1.0
-last_updated: 2025
+component: meta_framework
+version: 1.1
+last_updated: 08/04/2025
 framework_type: nlp_islamic_coaching
 language: en_ar
-parent: unified_transformation_framework_v3
+parent: NLP_Islamic_Coach_v3
 path: core/meta-framework
-references: soul_development, implementation_protocol, understanding_protocol
+references: soul_model, implementation_protocol, heart_diseases_framework
+ai_optimization: [meta_state_processing, frame_analysis, matrix_manipulation]
+complexity_level: 5
+context_sensitivity: high
 -->
 
 # CONSOLIDATED META-LEVEL FRAMEWORK
 
 <!-- AI.SECTION.START: META_FRAMEWORK -->
-## Core Concepts & Theoretical Foundation
 <!-- AI.CONTEXT: THEORETICAL_FOUNDATION -->
+## Core Concepts & Theoretical Foundation
 
 ### Meta-Level Processing
 #### Definition & Structure
@@ -29,8 +32,8 @@ references: soul_development, implementation_protocol, understanding_protocol
 - **Meaning-Making**: Active construction rather than passive reception
 - **Multi-Ordinal Terms**: Concepts that operate across logical levels
 
-### Framework Integration
 <!-- AI.CONTEXT: FRAMEWORK_INTEGRATION -->
+### Framework Integration
 #### Soul Model Alignment
 1. **Qalb (Heart) Application**:
    - Meta-awareness of consciousness (وعي عن الوعي)
@@ -56,8 +59,8 @@ references: soul_development, implementation_protocol, understanding_protocol
    - Transcendent perspective development
    - Ultimate meaning frame establishment
 
-## Dimensional Structure
 <!-- AI.CONTEXT: DIMENSIONAL_STRUCTURE -->
+## Dimensional Structure
 
 ### The Four Meta-Dimensions
 #### I. Representational Dimension
@@ -112,8 +115,8 @@ references: soul_development, implementation_protocol, understanding_protocol
   * Core concept development
   * Self-organizing attractor creation
 
-### Movement Between Dimensions
 <!-- AI.CONTEXT: DIMENSIONAL_MOVEMENT -->
+### Movement Between Dimensions
 #### Upward Movement (Abstraction)
 - **Process**:
   * Reflection on experience
@@ -140,8 +143,8 @@ references: soul_development, implementation_protocol, understanding_protocol
   * Manifestation (physical expression)
   * Sensory specification (detailed representation)
 
-## Frame Dynamics
 <!-- AI.CONTEXT: FRAME_DYNAMICS -->
+## Frame Dynamics
 
 ### Frame Structure
 #### Definition & Components
@@ -158,8 +161,8 @@ references: soul_development, implementation_protocol, understanding_protocol
 - **Understanding Frames**: Provide interpretations
 - **Perception Frames**: Filter immediate experience
 
-### Matrix Organization
 <!-- AI.CONTEXT: MATRIX_ORGANIZATION -->
+### Matrix Organization
 #### Matrix Structure
 - **Nested Frames System**:
   * Frames within frames create matrix
@@ -199,8 +202,8 @@ references: soul_development, implementation_protocol, understanding_protocol
   * Divine pleasure-seeking orientation
   * Akhira-focused perspective frames
 
-## Meta-State Process
 <!-- AI.CONTEXT: META_STATE_PROCESS -->
+## Meta-State Process
 
 ### Basic Meta-Stating Protocol
 #### Core Process
@@ -237,8 +240,8 @@ references: soul_development, implementation_protocol, understanding_protocol
 6. **Analyze**: Check for congruence and effectiveness
 7. **Accelerate**: Future-pace and reinforce
 
-### Advanced Meta-State Applications
 <!-- AI.CONTEXT: ADVANCED_APPLICATIONS -->
+### Advanced Meta-State Applications
 #### Multi-Layer Construction
 - **Sequencing Protocol**:
   * Start with foundational layers
@@ -265,8 +268,8 @@ references: soul_development, implementation_protocol, understanding_protocol
   * Interrupting patterns (humor about seriousness)
   * Creating gestalt states (resilience from resources)
 
-## Frame Detection & Transformation
 <!-- AI.CONTEXT: FRAME_DETECTION -->
+## Frame Detection & Transformation
 
 ### Detection Methodologies
 #### Recognition Approaches
@@ -307,8 +310,8 @@ references: soul_development, implementation_protocol, understanding_protocol
   * Inclusion/exclusion frames
   * Significance/insignificance frames
 
-### Transformation Methodologies
 <!-- AI.CONTEXT: FRAME_TRANSFORMATION -->
+### Transformation Methodologies
 #### Transformation Process
 1. **Frame Awareness**:
    * Conscious recognition
@@ -353,8 +356,8 @@ references: soul_development, implementation_protocol, understanding_protocol
   * Development of freedom practices
   * Establishment of frame choice autonomy
 
-## Heart Disease Integration
 <!-- AI.CONTEXT: HEART_DISEASE_INTEGRATION -->
+## Heart Disease Integration
 
 ### Frame-Disease Relationship
 #### Conceptual Mapping
@@ -371,8 +374,8 @@ references: soul_development, implementation_protocol, understanding_protocol
 - **Miserliness (البخل)** → Scarcity Frame
 - **Desires (الشهوة)** → Instant Gratification Frame
 
-### Meta-State Heart Disease Transformation
 <!-- AI.CONTEXT: META_STATE_TRANSFORMATION -->
+### Meta-State Heart Disease Transformation
 #### Transformation Protocols
 1. **Envy Transformation**:
    * Apply gratitude TO comparison feeling
@@ -398,8 +401,8 @@ references: soul_development, implementation_protocol, understanding_protocol
    * Meta-state with divine connection
    * Frame with proper relationship hierarchy
 
-## Practical Application Framework
 <!-- AI.CONTEXT: PRACTICAL_APPLICATION -->
+## Practical Application Framework
 
 ### Implementation Protocol
 #### Development Approach
@@ -434,8 +437,8 @@ references: soul_development, implementation_protocol, understanding_protocol
   * Develop divine connection meta-states
   * Create empowering spiritual matrices
 
-### Protection Protocol
 <!-- AI.CONTEXT: PROTECTION_PROTOCOL -->
+### Protection Protocol
 #### System Safeguards
 1. **Meta-Level Warning System**:
    * Track states-about-states
@@ -461,8 +464,8 @@ references: soul_development, implementation_protocol, understanding_protocol
 - **Individualized implementation approach**
 - **Context-appropriate application**
 
-## Dragon State Management
 <!-- AI.CONTEXT: DRAGON_STATES -->
+## Dragon State Management
 
 ### Common Dragon Patterns
 #### Primary Dragon States
@@ -505,8 +508,8 @@ references: soul_development, implementation_protocol, understanding_protocol
    * Meta-state with divine forgiveness
    * Frame with growth and spiritual development
 
-## Designer States Protocol
 <!-- AI.CONTEXT: DESIGNER_STATES -->
+## Designer States Protocol
 
 ### Creation Framework
 #### Development Process
@@ -547,8 +550,8 @@ references: soul_development, implementation_protocol, understanding_protocol
    * Interface effect: Negation of resentment
    * Result: Liberation from past hurt
 
-## Implementation Notes
 <!-- AI.CONTEXT: IMPLEMENTATION_NOTES -->
+## Implementation Notes
 
 ### Required Elements
 1. **Basic Requirements**:

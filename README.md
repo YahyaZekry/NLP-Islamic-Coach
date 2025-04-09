@@ -32,41 +32,38 @@ The framework operates through specialized NLP, Meta-States, and Cinema Mind bas
 ## 📁 Framework Structure
 
 ```
-project/
+NLP_Islamic_Coach_v3/
 ├── 01_core/
 │   ├── 01_master_framework.md       # Core mission and identity
 │   ├── 02_soul_model.md             # Integrated soul model components
 │   ├── 03_meta_framework.md         # Consolidated meta-level frameworks
-│   ├── 04_implementation_protocol.md # Central implementation guidelines
-│   ├── 05_profile_management.md     # Profile update system and management
-│   └── 06_user_profile.md           # User profile template and structure
-├── 02_methodologies/
+│   └── 04_implementation_protocol.md # Central implementation guidelines
+├── 02_profile/
+│   ├── 01_profile_management.md     # Profile update system and management
+│   └── 02_user_profile.md           # User profile template and structure
+├── 03_methodologies/
 │   ├── 01_cinema_mind/
-│   │   ├── 06_framework.md          # Cinema Mind core concepts
-│   │   ├── 07_implementation.md     # Implementation guidelines
-│   │   ├── 08_assessment.md         # Assessment protocols
-│   │   ├── 09_training.md           # Training exercises
-│   │   └── 10_cases.md              # Case examples
-│   ├── 02_heart_diseases/
-│   │   ├── 11_framework.md          # Heart diseases core concepts
-│   │   ├── 12_diseases.md           # Individual diseases analysis
-│   │   └── 13_references.md         # Quranic and Hadith references
-│   ├── 03_cookie_jar/
-│   │   ├── 14_framework.md          # Cookie Jar methodology
-│   │   ├── 15_collection.md         # Victory collection
-│   │   └── README.md                # Overview and guidelines
-│   └── 04_meta_states/
-│       └── 16_applications.md       # Meta-state practical applications
-├── 03_implementation/
-│   ├── 17_intervention_framework.md # Unified intervention approach
-│   ├── 18_goal_framework.md         # Goal achievement framework
-│   └── 19_resilience_framework.md   # Resilience development
-├── 04_communication/
-│   ├── 20_base_protocol.md          # Communication standards
-│   └── 21_advanced_tools.md         # Enhanced techniques
-├── 05_tracking/
-│   └── 22_unified_tracking.md       # Progress tracking systems
-└── README.md                        # Framework overview (this file)
+│   │   ├── 01_framework.md          # Cinema Mind core concepts
+│   │   ├── 02_implementation.md     # Implementation guidelines
+│   │   ├── 03_assessment.md         # Assessment protocols
+│   │   ├── 04_training.md           # Training exercises
+│   │   └── 05_cases.md              # Case examples
+│   └── 02_heart_diseases/
+│       ├── 01_framework.md          # Heart diseases core concepts
+│       ├── 02_diseases.md           # Individual diseases analysis
+│       └── 03_references.md         # Quranic and Hadith references
+├── 04_implementation/
+│   ├── 01_cookie_jar/
+│   │   ├── 01_framework.md          # Cookie Jar methodology
+│   │   └── 02_collection.md         # Victory collection
+│   ├── 02_intervention_framework.md # Unified intervention approach
+│   ├── 03_goal_framework.md         # Goal achievement framework
+│   ├── 04_resilience_framework.md   # Resilience development
+│   └── 05_meta_state_applications.md # Meta-state practical applications
+└── 05_communication/
+    ├── 01_base_protocol.md          # Communication standards
+    ├── 02_advanced_tools.md         # Enhanced techniques
+    └── 03_unified_tracking.md       # Progress tracking systems
 ```
 
 ## 🚀 Usage
@@ -178,7 +175,6 @@ Profile sections include:
     - Integration with other framework components
 - **Unified Goal Framework** 🎯
     
-    - 18-Question Methodology (`قُمع الأهداف`)
     - Understanding-optimized entry
     - Implementation structure and context framing
     - Cinema Mind goal enhancement
@@ -215,6 +211,11 @@ The AI implements the framework with careful attention to:
 - System protection and sustainability
 - Recovery protocols and progress tracking
 - User profile maintenance and privacy
+
+## 📄 License
+
+This project is licensed under the Prosperity Public License 3.0.0.  
+Commercial use requires a paid license. Contact yahyazekry@gmail.com for details.
 
 ## 📞 Contact Information
 
