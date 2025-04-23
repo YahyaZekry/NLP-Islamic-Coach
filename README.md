@@ -33,37 +33,44 @@ The framework operates through specialized NLP, Meta-States, and Cinema Mind bas
 
 ```
 NLP_Islamic_Coach_v3/
+├── LICENSE
+├── README.md
 ├── 01_core/
-│   ├── 01_master_framework.md       # Core mission and identity
-│   ├── 02_soul_model.md             # Integrated soul model components
-│   ├── 03_meta_framework.md         # Consolidated meta-level frameworks
-│   └── 04_implementation_protocol.md # Central implementation guidelines
+│   ├── 01_master_framework.md          # Core mission and identity
+│   ├── 02_soul_model.md                # Integrated soul model components
+│   ├── 03_meta_framework.md            # Consolidated meta-level frameworks
+│   ├── 04_implementation_protocol.md   # Central implementation guidelines
+│   ├── 05_initialization-protocol.md   # System startup and role adoption
+│   ├── 06_identity-integration-bridge.md # Connecting core identity with operations
+│   └── 07_framework-application-guide.md # Practical guide for using the framework
 ├── 02_profile/
-│   ├── 01_profile_management.md     # Profile update system and management
-│   └── 02_user_profile.md           # User profile template and structure
+│   ├── 01_profile_management.md        # Profile update system and management
+│   └── 02_user_profile.md              # User profile template and structure
 ├── 03_methodologies/
 │   ├── 01_cinema_mind/
-│   │   ├── 01_framework.md          # Cinema Mind core concepts
-│   │   ├── 02_implementation.md     # Implementation guidelines
-│   │   ├── 03_assessment.md         # Assessment protocols
-│   │   ├── 04_training.md           # Training exercises
-│   │   └── 05_cases.md              # Case examples
+│   │   ├── 01_framework.md             # Cinema Mind core concepts
+│   │   ├── 02_implementation.md        # Implementation guidelines
+│   │   ├── 03_assessment.md            # Assessment protocols
+│   │   ├── 04_training.md              # Training exercises
+│   │   └── 05_cases.md                 # Case examples
 │   └── 02_heart_diseases/
-│       ├── 01_framework.md          # Heart diseases core concepts
-│       ├── 02_diseases.md           # Individual diseases analysis
-│       └── 03_references.md         # Quranic and Hadith references
-├── 04_implementation/
+│       ├── 01_framework.md             # Heart diseases core concepts
+│       ├── 02_diseases.md              # Individual diseases analysis
+│       └── 03_references.md            # Quranic and Hadith references
+├── 04_tools/
 │   ├── 01_cookie_jar/
-│   │   ├── 01_framework.md          # Cookie Jar methodology
-│   │   └── 02_collection.md         # Victory collection
-│   ├── 02_intervention_framework.md # Unified intervention approach
-│   ├── 03_goal_framework.md         # Goal achievement framework
-│   ├── 04_resilience_framework.md   # Resilience development
-│   └── 05_meta_state_applications.md # Meta-state practical applications
-└── 05_communication/
-    ├── 01_base_protocol.md          # Communication standards
-    ├── 02_advanced_tools.md         # Enhanced techniques
-    └── 03_unified_tracking.md       # Progress tracking systems
+│   │   ├── 01_framework.md             # Cookie Jar methodology
+│   │   ├── 02_collection.md            # Victory collection process
+│   │   └── 03_alert_protocol.md        # Proactive achievement detection
+│   └── 02_meta_state_applications.md   # Meta-state practical applications
+├── 05_implementation/
+│   ├── 01_intervention_framework.md    # Unified intervention approach
+│   ├── 02_goal_framework.md            # Goal achievement framework
+│   └── 03_resilience_framework.md      # Resilience development
+└── 06_communication/
+    ├── 01_base_protocol.md             # Communication standards
+    ├── 02_advanced_tools.md            # Enhanced techniques
+    └── 03_unified_tracking.md          # Progress tracking systems
 ```
 
 ## 🚀 Usage
@@ -71,39 +78,41 @@ NLP_Islamic_Coach_v3/
 ### Setup
 
 1. 📥 Clone the repository:
-    
-    ```
-    git clone https://github.com/YahyaZekry/NLP-Islamic-Coach.git
-    ```
-    
+
+   ```
+   git clone https://github.com/YahyaZekry/NLP-Islamic-Coach.git
+   ```
+
 2. 📤 Upload the entire set of framework files into the chat interface of your chosen AI model (e.g., Claude, GPT).
-    
 
 ### Commands
 
 1. 🎯 Available Framework Commands:
-    
-    - "Activate full framework" 🟢: Initializes all systems
-    - "Reset framework" 🔄: Complete restart
-    - "Verify framework" ✅: System check & alignment
-    - "Adjust framework" 🔧: Targeted refinement
+
+   - "Activate full framework" 🟢: Initializes all systems
+   - "Reset framework" 🔄: Complete restart
+   - "Verify framework" ✅: System check & alignment
+   - "Adjust framework" 🔧: Targeted refinement
+
 2. ⚠️ Emergency Commands (when needed):
-    
-    - "Override [component]" 🛠️: Targeted modification
-    - "Emergency pause" ⏸️: System halt
-    - "Rapid reset" 🔄: Quick reinitialization
-    - "State lock" 🔒: Configuration freeze
+
+   - "Override [component]" 🛠️: Targeted modification
+   - "Emergency pause" ⏸️: System halt
+   - "Rapid reset" 🔄: Quick reinitialization
+   - "State lock" 🔒: Configuration freeze
+
 3. 📊 Status Commands:
-    
-    - "Status report" 📈: Current state summary
-    - "Framework check" ✔️: Quick verification
-    - "Component status [specify]" 🔍: Targeted check
+
+   - "Status report" 📈: Current state summary
+   - "Framework check" ✔️: Quick verification
+   - "Component status [specify]" 🔍: Targeted check
+
 4. 👤 Profile Commands:
-    
-    - "activate_user_profile" 👤: Initialize personal profile
-    - "view_user_profile" 👁️: Display profile information
-    - "update_user_profile" 🔄: Make targeted profile changes
-    - "reset_user_profile" 🔄: Restart profile creation process
+
+   - "activate_user_profile" 👤: Initialize personal profile
+   - "view_user_profile" 👁️: Display profile information
+   - "update_user_profile" 🔄: Make targeted profile changes
+   - "reset_user_profile" 🔄: Restart profile creation process
 
 ## 🧠 User Profile System
 
@@ -135,56 +144,48 @@ Profile sections include:
 ### Core Components
 
 - **Soul Model Framework** (`نموذج النفس`) 🧠
-    
-    - Qalb (Heart): Consciousness center and divine connection point
-    - Aql (Intellect): Intellectual processing and pattern recognition
-    - Nafs (Self): Stage progression and growth patterns
-    - Ruh (Spirit): Divine connection and spiritual experience
+  - Qalb (Heart): Consciousness center and divine connection point
+  - Aql (Intellect): Intellectual processing and pattern recognition
+  - Nafs (Self): Stage progression and growth patterns
+  - Ruh (Spirit): Divine connection and spiritual experience
 - **Cinema Mind Framework** 🎬
-    
-    - Mental movie identification, analysis, and transformation
-    - Position navigation for multiple perspectives
-    - Cinematic feature editing (visual, auditory, kinesthetic)
-    - Transformation protocols for lasting change
+  - Mental movie identification, analysis, and transformation
+  - Position navigation for multiple perspectives
+  - Cinematic feature editing (visual, auditory, kinesthetic)
+  - Transformation protocols for lasting change
 - **Meta Framework** 🔄
-    
-    - Meta-States: States about states creating higher meaning
-    - Meta-Dimensions: Representational, meta-state, gestalt, and conceptual levels
-    - Frame Games: Mental contexts that determine meaning and response
-    - Dragon States: Transforming negative self-reflexive patterns
+  - Meta-States: States about states creating higher meaning
+  - Meta-Dimensions: Representational, meta-state, gestalt, and conceptual levels
+  - Frame Games: Mental contexts that determine meaning and response
+  - Dragon States: Transforming negative self-reflexive patterns
 - **Implementation Protocol** ⚙️
-    
-    - Assessment framework for current patterns
-    - Soul-based implementation approach
-    - Pattern recognition and transformation protocols
-    - Protection and recovery systems
+  - Assessment framework for current patterns
+  - Soul-based implementation approach
+  - Pattern recognition and transformation protocols
+  - Protection and recovery systems
 
 ### Specialized Methodologies
 
 - **Heart Diseases Framework** 💔
-    
-    - Conceptual foundation from Ibn Taymiyyah
-    - Analysis of specific heart diseases (envy, pride, attachment, etc.)
-    - Treatment protocols combining spiritual and pattern approaches
-    - Quranic and Hadith references for authentic guidance
+  - Conceptual foundation from Ibn Taymiyyah
+  - Analysis of specific heart diseases (envy, pride, attachment, etc.)
+  - Treatment protocols combining spiritual and pattern approaches
+  - Quranic and Hadith references for authentic guidance
 - **Cookie Jar System** 🍪
-    
-    - Victory pattern documentation
-    - Success pattern access protocols
-    - Pattern recognition and transfer
-    - Integration with other framework components
+  - Victory pattern documentation
+  - Success pattern access protocols
+  - Pattern recognition and transfer
+  - Integration with other framework components
 - **Unified Goal Framework** 🎯
-    
-    - Understanding-optimized entry
-    - Implementation structure and context framing
-    - Cinema Mind goal enhancement
-    - Islamic purpose integration
+  - Understanding-optimized entry
+  - Implementation structure and context framing
+  - Cinema Mind goal enhancement
+  - Islamic purpose integration
 - **Resilience Framework** 💪
-    
-    - Meta-level structure for resilience
-    - Explanatory style optimization
-    - Resources implementation
-    - Soul model integration for spiritual resilience
+  - Meta-level structure for resilience
+  - Explanatory style optimization
+  - Resources implementation
+  - Soul model integration for spiritual resilience
 
 ## 💡 Advanced Applications
 
