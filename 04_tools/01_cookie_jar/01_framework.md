@@ -6,7 +6,7 @@ last_updated: 08/04/2025
 framework_type: nlp_islamic_coaching
 language: en_ar
 parent: NLP_Islamic_Coach_v3
-path: implementation/cookie_jar/framework
+path: 04_tools/01_cookie_jar/01_framework.md
 references: implementation_protocol, cinema_mind_framework, soul_model
 ai_optimization: [victory_pattern_recognition, resource_activation, trigger_response_mapping]
 complexity_level: 3
@@ -17,23 +17,31 @@ context_sensitivity: high
 
 <!-- AI.SECTION.START: COOKIE_JAR_FRAMEWORK -->
 <!-- AI.CONTEXT: DOCUMENTATION_TEMPLATE -->
+
 ## Cookie Documentation Template
 
 ### Cookie Entry Structure
-```markdown
+
+````markdown
 ## Cookie #{number}: {title}
 
 ### Original Expression
+
 ```{language}
 [Preserve the original expression exactly as shared]
 ```
+````
 
 ### Date Added
+
 [Month Year]
 
 ### Pattern Analysis
+
 <!-- AI.CONTEXT: PATTERN_RECOGNITION -->
+
 1. [Pattern Category]
+
    - Key observation
    - Supporting detail
    - Pattern implication
@@ -44,18 +52,23 @@ context_sensitivity: high
    - Pattern implication
 
 ### Access Protocol
+
 <!-- AI.CONTEXT: IMPLEMENTATION_PROTOCOL -->
+
 1. Trigger Recognition:
+
    - [Specific trigger]
    - [Specific trigger]
    - [Specific trigger]
 
 2. Activation Steps:
+
    - [Step 1]
    - [Step 2]
    - [Step 3]
 
 3. Safety Anchors:
+
    - [Primary anchor]
    - [Secondary anchor]
    - [Supporting elements]
@@ -66,10 +79,13 @@ context_sensitivity: high
    - [Key note]
 
 ### System Integration
+
 <!-- AI.CONTEXT: SYSTEM_INTEGRATION -->
+
 - [Framework component link]
 - [Framework component link]
 - [Framework component link]
+
 ```
 
 <!-- AI.CONTEXT: PATTERN_RECOGNITION -->
@@ -238,3 +254,4 @@ context_sensitivity: high
    - Development pattern analysis
    - Framework enhancement
 <!-- AI.SECTION.END: COOKIE_JAR_FRAMEWORK -->
+```

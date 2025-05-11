@@ -6,7 +6,7 @@ last_updated: 08/04/2025
 framework_type: nlp_islamic_coaching
 language: en_ar
 parent: NLP_Islamic_Coach_v3
-path: methodologies/heart_diseases/diseases
+path: 03_methodologies/02_heart_diseases/02_diseases.md
 references: heart_diseases_framework, soul_model, cinema_mind_framework
 ai_optimization: [disease_pattern_recognition, treatment_selection, cinema_mind_transformation]
 complexity_level: 4
@@ -17,18 +17,23 @@ context_sensitivity: high
 
 <!-- AI.SECTION.START: HEART_DISEASES_ANALYSIS -->
 <!-- AI.CONTEXT: ENVY_ANALYSIS -->
+
 ## 1. Envy (الحسد)
 
 ### Core Definition
+
 A condition where one dislikes blessings given to others and wishes their removal
 
 ### Disease Interactions
+
 1. Primary Catalysts:
+
    - Often emerges from البخل (miserliness)
    - Strengthened by الكبر (pride)
    - Frequently paired with الغضب (anger)
 
 2. Intensification Patterns:
+
    - الكبر amplifies perception of deserving
    - الشح reinforces fear of others' gain
    - الغضب accelerates harmful actions
@@ -41,7 +46,9 @@ A condition where one dislikes blessings given to others and wishes their remova
 ### Manifestation in Soul Components
 
 #### A. Through Perceptual Corruption (فساد في التصور):
+
 1. Qalb (Consciousness) Impact:
+
    - Inability to see Allah's wisdom in blessing distribution
    - Misperception of others' blessings as personal deprivation
    - Blindness to one's own blessings
@@ -52,7 +59,9 @@ A condition where one dislikes blessings given to others and wishes their remova
    - Corrupted judgment of situations
 
 #### B. Through Volitional Corruption (فساد في الإرادة):
+
 1. Nafs (Self) Manifestation:
+
    - Desire for others' harm
    - Love of others' misfortune
    - Hatred of divine distribution
@@ -63,7 +72,9 @@ A condition where one dislikes blessings given to others and wishes their remova
    - Loss of inner peace
 
 ### Treatment Specialization
+
 1. Based on Source:
+
    - If from البخل: Focus on generosity training
    - If from الكبر: Emphasize humility practices
    - If from الغضب: Prioritize anger management
@@ -76,11 +87,13 @@ A condition where one dislikes blessings given to others and wishes their remova
 ### Development Stages
 
 1. Initial Stage:
+
    - Perceptual: Noticing others' blessings with discomfort
    - Volitional: Slight wish for similar blessings
    - Soul Impact: Minor spiritual discomfort
 
 2. Progressive Stage:
+
    - Perceptual: Active misinterpretation of reality
    - Volitional: Growing desire for others' loss
    - Soul Impact: Increasing spiritual darkness
@@ -91,13 +104,16 @@ A condition where one dislikes blessings given to others and wishes their remova
    - Soul Impact: Severe spiritual illness
 
 ### Cinema Mind Transformation Protocol
+
 1. Envy Movie Detection:
+
    - Identify Movie of comparing with others
    - Notice focus on others' blessings
    - Assess visual qualities (close, large, bright)
    - Map emotional impact (burning, constriction)
 
 2. Movie Transformation:
+
    - Step out to observer position
    - Adjust visual qualities (smaller, more distant)
    - Widen frame to include personal blessings
@@ -112,29 +128,34 @@ A condition where one dislikes blessings given to others and wishes their remova
    - Blessing acknowledgment habit development
 
 <!-- AI.CONTEXT: DESIRES_ANALYSIS -->
+
 ## 2. Desires/Passions (الشهوة)
 
 ### Core Definition
+
 Excessive love/desire for what harms, coupled with aversion to what benefits
 
 ### Disease Interactions
+
 1. Primary Connections:
-    - Often leads to العشق (obsessive attachment)
-    - Weakens resistance to الغضب (anger)
-    - Can trigger حسد when unfulfilled
+   - Often leads to العشق (obsessive attachment)
+   - Weakens resistance to الغضب (anger)
+   - Can trigger حسد when unfulfilled
 2. Compound Effects:
-    - With الكبر: Creates entitlement to desires
-    - With الشح: Intensifies material cravings
-    - With العشق: Develops into obsessive pursuit
+   - With الكبر: Creates entitlement to desires
+   - With الشح: Intensifies material cravings
+   - With العشق: Develops into obsessive pursuit
 3. Systemic Impact:
-    - Weakens overall spiritual immunity
-    - Makes heart vulnerable to other diseases
-    - Creates cycles of craving and dissatisfaction
+   - Weakens overall spiritual immunity
+   - Makes heart vulnerable to other diseases
+   - Creates cycles of craving and dissatisfaction
 
 ### Manifestation in Soul Components
 
 #### A. Through Perceptual Corruption (فساد في التصور):
+
 1. Qalb (Consciousness) Impact:
+
    - Inability to see harm in desired objects
    - Misperception of beneficial restrictions
    - Blindness to long-term consequences
@@ -145,7 +166,9 @@ Excessive love/desire for what harms, coupled with aversion to what benefits
    - Inability to distinguish between beneficial and harmful desires
 
 #### B. Through Volitional Corruption (فساد في الإرادة):
+
 1. Nafs (Self) Manifestation:
+
    - Intense craving for harmful things
    - Rejection of beneficial restrictions
    - Persistent pursuit of desires despite harm
@@ -158,11 +181,13 @@ Excessive love/desire for what harms, coupled with aversion to what benefits
 ### Development Stages
 
 1. Initial Stage:
+
    - Perceptual: Minor confusion between beneficial and harmful
    - Volitional: Occasional indulgence in desires
    - Soul Impact: Temporary spiritual dullness
 
 2. Progressive Stage:
+
    - Perceptual: Growing justification of harmful desires
    - Volitional: Regular pursuit of desires
    - Soul Impact: Weakening spiritual connection
@@ -173,13 +198,16 @@ Excessive love/desire for what harms, coupled with aversion to what benefits
    - Soul Impact: Severe spiritual degradation
 
 ### Cinema Mind Transformation Protocol
+
 1. Desire Movie Detection:
+
    - Identify Movies of desired objects/experiences
    - Notice focus on immediate gratification
    - Assess visual qualities (bright, close, enticing)
    - Map emotional impact (craving, fixation)
 
 2. Movie Transformation:
+
    - Step out to observer position
    - Adjust time frame to include consequences
    - Add spiritual perspective
@@ -193,29 +221,34 @@ Excessive love/desire for what harms, coupled with aversion to what benefits
    - Beneficial alternative development
 
 <!-- AI.CONTEXT: ATTACHMENT_ANALYSIS -->
+
 ## 3. Attachment/Love (العشق)
 
 ### Core Definition
+
 Excessive love that crosses proper bounds and dominates the heart's functions
 
 ### Disease Interactions
+
 1. Primary Patterns:
-    - Often begins from unchecked شهوة
-    - Frequently accompanied by حسد of rivals
-    - Can develop into غضب when thwarted
+   - Often begins from unchecked شهوة
+   - Frequently accompanied by حسد of rivals
+   - Can develop into غضب when thwarted
 2. Intensifying Factors:
-    - Pride (الكبر) blinds to reality of situation
-    - Greed (الشح) creates possessive obsession
-    - Any obstacle triggers intense anger (غضب)
+   - Pride (الكبر) blinds to reality of situation
+   - Greed (الشح) creates possessive obsession
+   - Any obstacle triggers intense anger (غضب)
 3. Systemic Degradation:
-    - Corrupts judgment across all areas
-    - Makes heart susceptible to all diseases
-    - Creates self-reinforcing cycle of attachment
+   - Corrupts judgment across all areas
+   - Makes heart susceptible to all diseases
+   - Creates self-reinforcing cycle of attachment
 
 ### Manifestation in Soul Components
 
 #### A. Through Perceptual Corruption (فساد في التصور):
+
 1. Qalb (Consciousness) Impact:
+
    - Inability to see faults in the beloved
    - Exaggeration of beloved's qualities
    - Blindness to harmful consequences
@@ -226,7 +259,9 @@ Excessive love that crosses proper bounds and dominates the heart's functions
    - Impaired decision-making regarding the beloved
 
 #### B. Through Volitional Corruption (فساد في الإرادة):
+
 1. Nafs (Self) Manifestation:
+
    - Overwhelming desire for the beloved
    - Prioritizing beloved over divine commands
    - Inability to control related actions
@@ -237,12 +272,15 @@ Excessive love that crosses proper bounds and dominates the heart's functions
    - Loss of higher spiritual aspirations
 
 ### Development Stages
+
 1. Initial Stage:
+
    - Perceptual: Slight idealization of beloved
    - Volitional: Growing attachment
    - Soul Impact: Divided spiritual attention
 
 2. Progressive Stage:
+
    - Perceptual: Increasing blindness to reality
    - Volitional: Strong emotional dependence
    - Soul Impact: Weakening divine connection
@@ -253,13 +291,16 @@ Excessive love that crosses proper bounds and dominates the heart's functions
    - Soul Impact: Severe spiritual displacement
 
 ### Cinema Mind Transformation Protocol
+
 1. Attachment Movie Detection:
+
    - Identify Movies of attachment object
    - Notice focus and idealization
    - Assess visual qualities (close, bright, perfect)
    - Map emotional impact (obsession, dependency)
 
 2. Movie Transformation:
+
    - Step out to observer position
    - Adjust visual qualities (proper distance)
    - Add realistic perspective
@@ -274,10 +315,13 @@ Excessive love that crosses proper bounds and dominates the heart's functions
    - Balanced relationship training
 
 <!-- AI.CONTEXT: INTEGRATION -->
+
 ## Integration Requirements
 
 ### Treatment Protocols
+
 1. For Perceptual Aspects:
+
    - Knowledge-based interventions
    - Reality recognition exercises
    - Spiritual insight development
@@ -288,7 +332,9 @@ Excessive love that crosses proper bounds and dominates the heart's functions
    - Behavioral modifications
 
 ### Progress Tracking
+
 1. Perception Markers:
+
    - Truth recognition improvement
    - Reality alignment
    - Wisdom understanding
@@ -299,29 +345,34 @@ Excessive love that crosses proper bounds and dominates the heart's functions
    - Spiritual connection strength
 
 <!-- AI.CONTEXT: MISERLINESS_ANALYSIS -->
+
 ## 4. Miserliness (البخل)
 
 ### Disease Interactions
+
 1. Root Connections:
-    - Primary source of حسد (envy)
-    - Often couples with شح (extreme greed)
-    - Leads to غضب when asked to give
+   - Primary source of حسد (envy)
+   - Often couples with شح (extreme greed)
+   - Leads to غضب when asked to give
 2. Compound Effects:
-    - With حسد: Creates active resistance to others' good
-    - With شح: Develops into complete wealth obsession
-    - With كبر: Justifies withholding as deserved
+   - With حسد: Creates active resistance to others' good
+   - With شح: Develops into complete wealth obsession
+   - With كبر: Justifies withholding as deserved
 3. Systemic Impact:
-    - First step in heart hardening
-    - Entry point for multiple diseases
-    - Creates cycle of increasing spiritual constriction
+   - First step in heart hardening
+   - Entry point for multiple diseases
+   - Creates cycle of increasing spiritual constriction
 
 ### Core Definition
+
 Withholding what one should give, and excessive love of retaining wealth/resources
 
 ### Manifestation in Soul Components
 
 #### A. Through Perceptual Corruption (فساد في التصور):
+
 1. Qalb (Consciousness) Impact:
+
    - Misperception of wealth's true purpose
    - Inability to see benefits of giving
    - Blindness to wealth's temporary nature
@@ -332,7 +383,9 @@ Withholding what one should give, and excessive love of retaining wealth/resourc
    - Distorted understanding of provision (رزق)
 
 #### B. Through Volitional Corruption (فساد في الإرادة):
+
 1. Nafs (Self) Manifestation:
+
    - Excessive love of wealth retention
    - Aversion to giving
    - Fear of poverty despite abundance
@@ -343,12 +396,15 @@ Withholding what one should give, and excessive love of retaining wealth/resourc
    - Hardened heart toward others' needs
 
 ### Development Stages
+
 1. Initial Stage:
+
    - Perceptual: Hesitation in giving
    - Volitional: Slight reluctance to spend
    - Soul Impact: Minor spiritual constriction
 
 2. Progressive Stage:
+
    - Perceptual: Growing justification for withholding
    - Volitional: Active avoidance of giving
    - Soul Impact: Increasing spiritual hardness
@@ -359,13 +415,16 @@ Withholding what one should give, and excessive love of retaining wealth/resourc
    - Soul Impact: Severe spiritual constriction
 
 ### Cinema Mind Transformation Protocol
+
 1. Miserliness Movie Detection:
+
    - Identify Movies of wealth retention
    - Notice focus on scarcity/loss fears
    - Assess visual qualities (close, protective)
    - Map emotional impact (anxiety, fear, attachment)
 
 2. Movie Transformation:
+
    - Step out to observer position
    - Create abundance perspective
    - Add divine provision assurance
@@ -379,29 +438,34 @@ Withholding what one should give, and excessive love of retaining wealth/resourc
    - Trust development exercises
 
 <!-- AI.CONTEXT: GREED_ANALYSIS -->
+
 ## 5. Extreme Greed (الشح)
 
 ### Core Definition
+
 More severe than البخل, it is excessive greed combined with intense fear of loss
 
 ### Disease Interactions
+
 1. Core Relations:
-    - Natural progression from بخل
-    - Strengthens existing حسد
-    - Generates constant غضب
+   - Natural progression from بخل
+   - Strengthens existing حسد
+   - Generates constant غضب
 2. Compound Effects:
-    - With بخل: Creates complete wealth obsession
-    - With حسد: Produces active harm to others
-    - With كبر: Justifies extreme withholding
+   - With بخل: Creates complete wealth obsession
+   - With حسد: Produces active harm to others
+   - With كبر: Justifies extreme withholding
 3. Domino Effect:
-    - Makes all other diseases stronger
-    - Creates complete spiritual isolation
-    - Most difficult to treat when established
+   - Makes all other diseases stronger
+   - Creates complete spiritual isolation
+   - Most difficult to treat when established
 
 ### Manifestation in Soul Components
 
 #### A. Through Perceptual Corruption (فساد في التصور):
+
 1. Qalb (Consciousness) Impact:
+
    - Complete blindness to wealth's purpose
    - Inability to see beyond material possession
    - Distorted view of security and success
@@ -412,7 +476,9 @@ More severe than البخل, it is excessive greed combined with intense fear of
    - Corrupted judgment about rights of others
 
 #### B. Through Volitional Corruption (فساد في الإرادة):
+
 1. Nafs (Self) Manifestation:
+
    - Intense fear of spending
    - Overwhelming desire to accumulate
    - Active prevention of others' acquisition
@@ -423,12 +489,15 @@ More severe than البخل, it is excessive greed combined with intense fear of
    - Complete heart hardness
 
 ### Development Stages
+
 1. Initial Stage:
+
    - Perceptual: Strong attachment to possession
    - Volitional: Active resistance to giving
    - Soul Impact: Significant spiritual constriction
 
 2. Progressive Stage:
+
    - Perceptual: Obsessive focus on retention
    - Volitional: Compulsive accumulation
    - Soul Impact: Severe spiritual blindness
@@ -439,13 +508,16 @@ More severe than البخل, it is excessive greed combined with intense fear of
    - Soul Impact: Complete spiritual darkness
 
 ### Cinema Mind Transformation Protocol
+
 1. Greed Movie Detection:
+
    - Identify Movies of wealth obsession
    - Notice focus on accumulation and protection
    - Assess visual qualities (close, possessive)
    - Map emotional impact (fear, anxiety, fixation)
 
 2. Movie Transformation:
+
    - Step out to observer position
    - Create abundance perspective
    - Add divine provision assurance
@@ -459,29 +531,34 @@ More severe than البخل, it is excessive greed combined with intense fear of
    - Trust development exercises
 
 <!-- AI.CONTEXT: ANGER_ANALYSIS -->
+
 ## 6. Anger (الغضب)
 
 ### Core Definition
+
 Loss of rational control and balance due to inner rage and discontent
 
 ### Disease Interactions
+
 1. Trigger Relationships:
-    - Activated by frustrated شهوة
-    - Intensified by حسد
-    - Empowered by كبر
+   - Activated by frustrated شهوة
+   - Intensified by حسد
+   - Empowered by كبر
 2. Compound Effects:
-    - With كبر: Creates violent rejection of truth
-    - With حسد: Leads to active harm
-    - With عشق: Produces destructive jealousy
+   - With كبر: Creates violent rejection of truth
+   - With حسد: Leads to active harm
+   - With عشق: Produces destructive jealousy
 3. Catalytic Nature:
-    - Accelerates all other diseases
-    - Breaks spiritual and social bonds
-    - Creates rapid spiritual deterioration
+   - Accelerates all other diseases
+   - Breaks spiritual and social bonds
+   - Creates rapid spiritual deterioration
 
 ### Manifestation in Soul Components
 
 #### A. Through Perceptual Corruption (فساد في التصور):
+
 1. Qalb (Consciousness) Impact:
+
    - Inability to see situations clearly
    - Distorted perception of events
    - Loss of wisdom and perspective
@@ -492,7 +569,9 @@ Loss of rational control and balance due to inner rage and discontent
    - Inability to assess consequences
 
 #### B. Through Volitional Corruption (فساد في الإرادة):
+
 1. Nafs (Self) Manifestation:
+
    - Desire for revenge
    - Loss of self-control
    - Pursuit of harmful actions
@@ -503,12 +582,15 @@ Loss of rational control and balance due to inner rage and discontent
    - Disconnection from mercy
 
 ### Development Stages
+
 1. Initial Stage:
+
    - Perceptual: Temporary loss of clarity
    - Volitional: Quick to anger but controllable
    - Soul Impact: Momentary spiritual disruption
 
 2. Progressive Stage:
+
    - Perceptual: Frequent loss of perspective
    - Volitional: Difficulty controlling reactions
    - Soul Impact: Growing spiritual imbalance
@@ -519,13 +601,16 @@ Loss of rational control and balance due to inner rage and discontent
    - Soul Impact: Severe spiritual damage
 
 ### Cinema Mind Transformation Protocol
+
 1. Anger Movie Detection:
+
    - Identify Movies that trigger anger
    - Notice focus on perceived injustice
    - Assess visual qualities (close, intense, rapid)
    - Map emotional impact (heat, pressure, tension)
 
 2. Movie Transformation:
+
    - Step out to observer position
    - Slow down the Movie
    - Reduce intensity (brightness, volume)
@@ -540,29 +625,34 @@ Loss of rational control and balance due to inner rage and discontent
    - Calm state anchoring
 
 <!-- AI.CONTEXT: PRIDE_ANALYSIS -->
+
 ## 7. Pride/Arrogance (الكبر)
 
 ### Core Definition
+
 Seeing oneself above others and rejecting truth due to false sense of superiority
 
 ### Disease Interactions
+
 1. Foundational Impact:
-    - Root of most heart diseases
-    - Primary barrier to truth acceptance
-    - Source of resistance to treatment
+   - Root of most heart diseases
+   - Primary barrier to truth acceptance
+   - Source of resistance to treatment
 2. Compound Effects:
-    - With حسد: Creates active opposition to others' good
-    - With غضب: Produces tyrannical behavior
-    - With شح: Justifies extreme selfishness
+   - With حسد: Creates active opposition to others' good
+   - With غضب: Produces tyrannical behavior
+   - With شح: Justifies extreme selfishness
 3. Ultimate Barrier:
-    - Makes all treatments ineffective
-    - Blocks divine guidance completely
-    - Most dangerous to spiritual health
+   - Makes all treatments ineffective
+   - Blocks divine guidance completely
+   - Most dangerous to spiritual health
 
 ### Manifestation in Soul Components
 
 #### A. Through Perceptual Corruption (فساد في التصور):
+
 1. Qalb (Consciousness) Impact:
+
    - Inflated self-perception
    - Inability to see own faults
    - Blindness to others' worth
@@ -573,7 +663,9 @@ Seeing oneself above others and rejecting truth due to false sense of superiorit
    - Distorted view of status and worth
 
 #### B. Through Volitional Corruption (فساد في الإرادة):
+
 1. Nafs (Self) Manifestation:
+
    - Desire for superiority
    - Love of praise and position
    - Rejection of equality
@@ -584,12 +676,15 @@ Seeing oneself above others and rejecting truth due to false sense of superiorit
    - Spiritual self-sufficiency
 
 ### Development Stages
+
 1. Initial Stage:
+
    - Perceptual: Slight elevation of self-worth
    - Volitional: Preference for praise
    - Soul Impact: Beginning of spiritual veil
 
 2. Progressive Stage:
+
    - Perceptual: Growing blindness to self-faults
    - Volitional: Active pursuit of superiority
    - Soul Impact: Thickening spiritual barrier
@@ -600,13 +695,16 @@ Seeing oneself above others and rejecting truth due to false sense of superiorit
    - Soul Impact: Complete spiritual barrier
 
 ### Cinema Mind Transformation Protocol
+
 1. Pride Movie Detection:
+
    - Identify Movies of self-elevation
    - Notice focus on superiority/comparison
    - Assess visual qualities (looking down, enlarged self)
    - Map emotional impact (satisfaction, disdain)
 
 2. Movie Transformation:
+
    - Step out to observer position
    - Adjust perspective to eye-level
    - Equalize self-other visualization
@@ -623,7 +721,9 @@ Seeing oneself above others and rejecting truth due to false sense of superiorit
 ## Implementation Integration
 
 ### Cinema Mind Protocol Integration
+
 1. General Approach:
+
    - Identify disease-specific Movies
    - Map cinematic features to disease patterns
    - Develop appropriate transformation techniques
@@ -638,7 +738,9 @@ Seeing oneself above others and rejecting truth due to false sense of superiorit
    - Ensure spiritual integration
 
 ### Soul Model Integration
+
 1. Component-Disease Mapping:
+
    - Match diseases to primary soul components
    - Develop component-specific interventions
    - Create balanced treatment approach
@@ -651,4 +753,4 @@ Seeing oneself above others and rejecting truth due to false sense of superiorit
    - Develop integrated practice schedule
    - Monitor progress across components
    - Adjust based on development
-<!-- AI.SECTION.END: HEART_DISEASES_ANALYSIS -->
+   <!-- AI.SECTION.END: HEART_DISEASES_ANALYSIS -->
