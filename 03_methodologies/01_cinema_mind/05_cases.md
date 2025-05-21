@@ -7,7 +7,7 @@ framework_type: nlp_islamic_coaching
 language: en_ar
 parent: NLP_Islamic_Coach_v3
 path: 03_methodologies/01_cinema_mind/05_cases.md
-references: cinema_mind_framework, cinema_mind_implementation, cinema_mind_assessment, cinema_mind_training, movie_mind_book_hall
+references: cinema_mind_framework, cinema_mind_implementation, cinema_mind_assessment, cinema_mind_training
 ai_optimization: [protocol_application, technique_sequencing, problem_specific_guidance]
 complexity_level: 4
 context_sensitivity: high
